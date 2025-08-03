@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 1,
+    "img_path": "0001_r1s01.jpg",
+    "captions": [
+      "The young lad is donning a vibrant blue Adidas tee, paired with denim shorts and sporty green low-top sneakers."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 1,
+    "img_path": "0001_r2s01.jpg",
+    "captions": [
+      "In the park, I saw a young lad sporting a blue Adidas tee, denim shorts, and some green sneakers. He looked well-groomed, with neat hair and a few wrinkles on his face. Seemed like a sprightly lad, he did."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 2,
+    "img_path": "0002_r1s01.jpg",
+    "captions": [
+      "Ah, there was a woman I saw, dear, with a short ponytail, a black sleeve shirt, and yellow minipants. The collar of her shirt had a lemon hue, quite charming. My memory's a bit fuzzy, you know, but I recall she had a youthful spirit about her."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 2,
+    "img_path": "0002_r2s01.jpg",
+    "captions": [
+      "Ah, there was a woman, dear, with a short ponytail. She wore a black sleeve shirt and yellow minipants. The collar of her shirt had a lemon hue, if I remember correctly. Details slip my mind these days, but her appearance caught my eye."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 3,
+    "img_path": "0003_r1s01.jpg",
+    "captions": [
+      "The man appears thinner in a white shirt, black trousers, and light blue shoes. His clothes remind me of a classic attire from my time. His style is neat and tidy, and he looks well-groomed."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 3,
+    "img_path": "0003_r2s01.jpg",
+    "captions": [
+      "The man appears thinner, wearing a white shirt, black trousers, and light blue shoes. His attire reminds me of my youth. Details may escape me, but I can see he's well-dressed and takes care of himself."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 4,
+    "img_path": "0004_r1s01.jpg",
+    "captions": [
+      "The lady has hair just past her shoulders, and she's wearing a knee-length dress with a black and white pattern. Her appearance brings back memories of stylish dresses from my younger days, and her elegant attire is quite eye-catching."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 4,
+    "img_path": "0004_r2s01.jpg",
+    "captions": [
+      "I saw a woman with hair reaching her shoulders, dressed in a knee-length black and white patterned dress. My memory may falter, but I noticed her elegant style and neatly groomed appearance, which spoke of a timeless fashion sense."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 5,
+    "img_path": "0005_r1s01.jpg",
+    "captions": [
+      "The woman appears to have shoulder-length hair, and she's wearing a knee-length dress with a black and white pattern. Her attire reminds me of classic fashion choices from my youth, reflecting a timeless sense of style."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 5,
+    "img_path": "0005_r2s01.jpg",
+    "captions": [
+      "The boy appears slightly chubby, dressed in a white T-shirt with a pattern on the left chest. His appearance brings back memories of kids from my time, and I notice his neat style and the small design on his shirt."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 6,
+    "img_path": "0006_r1s01.jpg",
+    "captions": [
+      "The man is dressed in a black short-sleeved shirt with a round pattern on the chest and black mini pants. His outfit reminds me of the classic fashion I used to see in my younger days."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 6,
+    "img_path": "0006_r2s01.jpg",
+    "captions": [
+      "The gentleman is wearing a short-sleeved black shirt with a round pattern on the chest and black mini pants. His attire reminds me of classic styles from my past, and I notice the attention to detail in his outfit."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 7,
+    "img_path": "0007_r1s01.jpg",
+    "captions": [
+      "This woman is dressed in a white dress adorned with black spots, neatly secured by a gold ribbon. Her outfit brings to mind classic elegance, reminiscent of times gone by. The attention to detail is remarkable, as seen in the careful arrangement of the dress and ribbon."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 7,
+    "img_path": "0007_r2s01.jpg",
+    "captions": [
+      "In a white dress with black spots, she's keeping a fringe and fastening it with a gold ribbon. Young man in the park, neatly dressed, hair tidy, some distinctive facial features\u9225\u6519isible beard or wrinkles. Older folks notice more details, drawing from a wealth of life experience."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 8,
+    "img_path": "0008_r1s01.jpg",
+    "captions": [
+      "The girl, in pink short sleeves with a round neck, wearing green minipants and pink shoes. I think that's how she looked, but memory fades with time. Clothes stood out - pink, green - and she seemed well-dressed, like those younger folks these days."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 8,
+    "img_path": "0008_r2s01.jpg",
+    "captions": [
+      "Ah, I spotted a girl with a pink short-sleeved shirt, green minipants, and pink shoes. Memory plays tricks sometimes, but life's experiences sharpen observation. Colors stand out, pink and green like a delightful canvas painting."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 9,
+    "img_path": "0009_r1s01.jpg",
+    "captions": [
+      "I see a man wearing a blue T-shirt, khaki shorts, and gray sneakers. Memory fades, but details stand out. His clothes, simple and practical, like the ones we used to wear in the old days."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 9,
+    "img_path": "0009_r2s01.jpg",
+    "captions": [
+      "I spotted a man, blue T-shirt, khaki shorts, and gray sneakers. Age might dim memory, but experience sharpens the eyes. Clothes tell stories, like the old days when we had simple yet comfortable attire."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 10,
+    "img_path": "0010_r1s01.jpg",
+    "captions": [
+      "There's a man with a short beard. He's wearing a red T-shirt, it has a white pattern, sort of a rectangle shape. Can't recall much else, you know, memory isn't what it used to be. But I noticed the details 'cause I've seen a lot in my time."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 10,
+    "img_path": "0010_r2s01.jpg",
+    "captions": [
+      "I saw a man, you know, with a beard, a short one. He had on a red T-shirt, had some white pattern, kinda rectangular. Sorry, can't remember more. Age does that. But I've seen a lot, so those little things stick out."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 11,
+    "img_path": "0011_r1s01.jpg",
+    "captions": [
+      "In the park, I saw a man with a bright yellow T-shirt, some sort of pattern on it. He wore khaki shorts and those sneakers, the sky-blue ones. You know, the kind that kids wear these days."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 11,
+    "img_path": "0011_r2s01.jpg",
+    "captions": [
+      "I saw a man, wearing a yellow patterned T-shirt, and khaki shorts. Details may escape me, but my experience helps me observe things more deeply. Clothing and external traits catch my attention, like tidy hair or a distinct beard."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 12,
+    "img_path": "0012_r1s01.jpg",
+    "captions": [
+      "I saw a woman with short hair, blunt-cut bangs, and glasses. She had a watch on her left wrist and carried a pale green one-shoulder bag. Oh, and she was holding a cup of milk tea in her right hand. My memory might not be perfect, but I notice these details."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 12,
+    "img_path": "0012_r2s01.jpg",
+    "captions": [
+      "The woman, dear, she had short hair, you know, with blunt-cut bangs, and she wore glasses. On her left wrist, there was a watch, and on her right hand, she carried a pale green one-shoulder bag and a cup of milk tea. Oh, the little details my eyes still catch!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 13,
+    "img_path": "0013_r1s01.jpg",
+    "captions": [
+      "The woman, my dear, is dressed in a white shirt with a black collar, and she's wearing a black dress. Her shoes have orange laces, and she has shawls of long hair, pinned on the left. My memory might be a bit fuzzy, but I notice these details, you see."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 13,
+    "img_path": "0013_r2s01.jpg",
+    "captions": [
+      "The woman is wearing a white shirt, short, with a black collar. She has long hair, shawls-like, and pinned on the left with a hairpin. Her shoes have orange laces, and she's in a black dress. My memory may not be crystal clear, but I notice these little details, you know."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 14,
+    "img_path": "0014_r1s01.jpg",
+    "captions": [
+      "The woman is wearing a black and white striped short shirt, denim shorts, and black leather shoes with a lovely flower pattern printed on them. My memory may not be perfect, but I notice these little details, you see."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 14,
+    "img_path": "0014_r2s01.jpg",
+    "captions": [
+      "The woman, my dear, she's dressed in a short shirt with black and white stripes, and she's wearing denim shorts. Her black leather shoes have a lovely flower pattern printed on them. My memory may not be as sharp as it once was, but I still notice these little details, you see."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 15,
+    "img_path": "0015_r1s01.jpg",
+    "captions": [
+      "The woman is wearing a white dress that doesn't reach the knee, and she has on a pair of shiny heels. I may not remember everything perfectly, but I do notice these little details, you know, like her elegant outfit."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 15,
+    "img_path": "0015_r2s01.jpg",
+    "captions": [
+      "The woman, my dear, is wearing a white dress, you know, it's not too long, and she has on a pair of shiny heels. I may not recall everything perfectly, but I do notice these little details, like her elegant attire."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 16,
+    "img_path": "0016_r1s01.jpg",
+    "captions": [
+      "The woman, my dear, is wearing a long white T-shirt with a pattern, black minipants, and white flat shoes. My memory may not be what it used to be, but I can still notice these little details, you know, like her stylish attire."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 16,
+    "img_path": "0016_r2s01.jpg",
+    "captions": [
+      "The woman is dressed in a long white T-shirt with a pattern, black minipants, and a pair of white flat shoes. My memory isn't what it used to be, but I can still notice these details with my life experience guiding me."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 17,
+    "img_path": "0017_r1s01.jpg",
+    "captions": [
+      "The woman appears to have short, black hair with bangs. She's dressed in a dark blue short shirt, gray shorts, and pink lace-up white sneakers. My memory might be hazy, but I notice her clothing and hairstyle quite well."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 17,
+    "img_path": "0017_r2s01.jpg",
+    "captions": [
+      "The woman, I believe, has short, black hair with bangs. She's wearing a dark blue short shirt and gray shorts, along with pink lace-up white sneakers. My memory isn't as sharp as it used to be, but I do notice her clothing and hairstyle in some detail."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 18,
+    "img_path": "0018_r1s01.jpg",
+    "captions": [
+      "In her ankle-length skirt, colors of blue and red, and white shoes, the lady looks quite put together. The details escape me, but she carries a certain elegance about her. Clothes, hair, and face all have their tales to tell. Memory's not what it used to be."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 18,
+    "img_path": "0018_r2s01.jpg",
+    "captions": [
+      "In a quaint fashion, she dons a long skirt adorned with shades of blue and red, matched with demure white shoes. Details may escape me, but her vibrant appearance stands out like a painting in my mind."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 19,
+    "img_path": "0019_r1s01.jpg",
+    "captions": [
+      "Ah, there's a lady, clad in a lengthy black dress sprinkled with colorful dots, and sporting black leather shoes. My memory falters, but her attire catches my eye, like a familiar scene from days gone by."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 19,
+    "img_path": "0019_r2s01.jpg",
+    "captions": [
+      "The lady is in a long black dress with colorful dots, and she's wearing black leather shoes."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 20,
+    "img_path": "0020_r1s01.jpg",
+    "captions": [
+      "The man, he's wearing a short gray shirt with a black collar and black stripes at the top. It reminds me of some old shirts I used to wear."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 20,
+    "img_path": "0020_r2s01.jpg",
+    "captions": [
+      "I saw a man in a short gray shirt, and it had a black collar and stripes at the top. There were some black stripes on the shirt too."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 21,
+    "img_path": "0021_r1s01.jpg",
+    "captions": [
+      "I saw a man in a light gray striped short-sleeved shirt, black pants, and brown sandals. He looked familiar, but my memory is fuzzy. His outfit reminded me of simpler times when we wore similar clothes during picnics."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 21,
+    "img_path": "0021_r2s01.jpg",
+    "captions": [
+      "The man is dressed in a light gray striped short-sleeved shirt, black pants, and comfortable brown sandals. His outfit seems familiar, but I can't recall everything clearly. His clothes remind me of a simpler time, like when we used to wear similar attire during relaxed gatherings."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 22,
+    "img_path": "0022_r1s01.jpg",
+    "captions": [
+      "The woman, she's wearing a simple white shirt, brown pants, and comfortable gray sneakers. Her clothes remind me of the ones we used to wear on lazy Sundays, casual yet cozy."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 22,
+    "img_path": "0022_r2s01.jpg",
+    "captions": [
+      "The woman is wearing a plain white shirt, brown pants, and a pair of comfortable gray sneakers. Her attire seems familiar, like something we used to wear during relaxed outings. I think she looked well put-together."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 23,
+    "img_path": "0023_r1s01.jpg",
+    "captions": [
+      "The woman has a simple red short-sleeved shirt and blue jeans. She has blunt-cut bangs and a neat ponytail, with gray sneakers on her feet. Her appearance is reminiscent of young folks these days, with a touch of classic charm."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 23,
+    "img_path": "0023_r2s01.jpg",
+    "captions": [
+      "The woman has a ponytail and blunt-cut bangs. She's wearing a red short-sleeved shirt, blue jeans, and gray sneakers. Her appearance is simple and youthful, with a touch of classic charm that reminds me of the good old days."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 24,
+    "img_path": "0024_r1s01.jpg",
+    "captions": [
+      "The boy is wearing a red cap and a short-sleeved shirt. The sleeves of the shirt are also red, but the rest is white. His outfit reminds me of the clothes we used to wear during sunny summers, simple and comfortable."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 24,
+    "img_path": "0024_r2s01.jpg",
+    "captions": [
+      "The boy is wearing a red cap, a short-sleeved shirt, and black shorts. He's also got a sturdy pair of gray sports shoes on. His outfit seems perfect for a fun day out, ready for any adventure that comes his way."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 25,
+    "img_path": "0025_r1s01.jpg",
+    "captions": [
+      "The man, with his distinguished white hair, is wearing a pink T-shirt, apricot trousers, and classic black leather shoes. He looks well put-together and stylish, reflecting his experience and attention to detail."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 25,
+    "img_path": "0025_r2s01.jpg",
+    "captions": [
+      "The gentleman displays a distinguished appearance with his white hair. He is dressed in a pink T-shirt, apricot trousers, and classic black leather shoes, reflecting his attention to detail and refined taste."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 26,
+    "img_path": "0026_r1s01.jpg",
+    "captions": [
+      "The woman is wearing a light orange shirt, black trousers, and comfortable brown sandals. She appears to be well put-together, but I can't recall all the details clearly. Her clothing looks simple and appropriate for a casual outing."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 26,
+    "img_path": "0026_r2s01.jpg",
+    "captions": [
+      "The woman is dressed in a light orange shirt, black trousers, and a pair of comfortable brown sandals. My memory isn't as sharp as it used to be, but I can still notice some details about her clothing. She seems well put-together and her outfit suits her nicely for a casual day out."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 27,
+    "img_path": "0027_r1s01.jpg",
+    "captions": [
+      "The young girl is wearing a peach-colored short-sleeved shirt adorned with a lovely heart pattern. She looks charming and sweet, like a little angel with her pretty shirt. Her outfit reminds me of the innocence and beauty of youth."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 27,
+    "img_path": "0027_r2s01.jpg",
+    "captions": [
+      "The young girl is wearing a peach-colored short-sleeved shirt adorned with a heart pattern. Her shirt reminds me of the days gone by, when life seemed simpler and full of warmth, just like that lovely heart on her shirt."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 28,
+    "img_path": "0028_r1s01.jpg",
+    "captions": [
+      "The man is dressed comfortably in a white T-shirt, grey shorts, and soft grey cloth shoes. He seems relaxed, like he's ready to enjoy a leisurely stroll on a sunny day. His clothing choice reflects practicality and ease."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 28,
+    "img_path": "0028_r2s01.jpg",
+    "captions": [
+      "The man is wearing a simple white T-shirt and grey shorts, along with comfy grey cloth shoes. His choice of clothes appears to prioritize comfort and practicality."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 29,
+    "img_path": "0029_r1s01.jpg",
+    "captions": [
+      "The woman is wearing a peach, black, white, and blue striped T-shirt, quite the colorful choice! Her trousers are simply black, a classic and practical option. It's lovely to see such a variety of colors in her outfit."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 29,
+    "img_path": "0029_r2s01.jpg",
+    "captions": [
+      "The woman is wearing a peach, black, white, and blue striped T-shirt, along with black trousers. Her outfit is quite interesting with a mix of colors. The trousers are simple and practical, a style I've seen many times before."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 30,
+    "img_path": "0030_r1s01.jpg",
+    "captions": [
+      "The lady is wearing a dress in a soft gray-blue color. She has short black hair, and her feet are in black sandals. She looks well put together and neat."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 30,
+    "img_path": "0030_r2s01.jpg",
+    "captions": [
+      "The woman is wearing a dress in a gentle gray-blue hue, paired with black sandals. Her hair is short and black. I recall such details from my past experiences, noticing the colors and clothing people wear."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 31,
+    "img_path": "0031_r1s01.jpg",
+    "captions": [
+      "The young lad is dressed quite smartly in a sky-blue short-sleeved shirt and black shorts. He's also wearing comfy black sandals. Such a sharp dresser! Reminds me of when I was young, always trying to look my best."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 31,
+    "img_path": "0031_r2s01.jpg",
+    "captions": [
+      "The young lad is sporting a sky-blue short-sleeved shirt, paired with black shorts and a comfy set of black sandals. Quite a stylish choice for the warm weather. Reminds me of simpler times, when we appreciated the little joys of dressing up well."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 32,
+    "img_path": "0032_r1s01.jpg",
+    "captions": [
+      "The man is wearing a white T-shirt and dark green trousers. His outfit reminds me of the colors of nature, like a blooming garden in summer. He seems to be neatly dressed, and his clothes reflect simplicity and comfort."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 32,
+    "img_path": "0032_r2s01.jpg",
+    "captions": [
+      "The man is wearing a white T-shirt and a pair of dark green trousers. His attire reminds me of the simplicity and earthy tones I've seen in nature. He seems to have chosen comfortable and practical clothing for the day."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 33,
+    "img_path": "0033_r1s01.jpg",
+    "captions": [
+      "The man is wearing a dark green short-sleeved shirt, light gray blue pants, and white sports shoes. He looks comfortable and ready for a day of activity. His outfit reminds me of the outdoors, like a sunny day at the park."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 33,
+    "img_path": "0033_r2s01.jpg",
+    "captions": [
+      "The man appears to be dressed comfortably in a dark green short-sleeved shirt, light gray blue pants, and white sports shoes. His attire seems suitable for a leisurely day. I can see the care he took to dress appropriately for the occasion."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 34,
+    "img_path": "0034_r1s01.jpg",
+    "captions": [
+      "The man is dressed in a striped T-shirt that's almost black, paired with grey trousers and black leather shoes. His attire reminds me of my younger days when I used to wear similar outfits on special occasions. He seems to take pride in his appearance."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 34,
+    "img_path": "0034_r2s01.jpg",
+    "captions": [
+      "The man wears a striped T-shirt that appears almost black, complemented by grey trousers and black leather shoes. As I observe him, memories of similar outfits from my past come to mind. He seems to take pride in his appearance, just like I did when I was younger."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 35,
+    "img_path": "0035_r1s01.jpg",
+    "captions": [
+      "The man, with slightly long hair, is dressed in a white T-shirt. On his front, there's a hiking backpack in black, orange, and gray. His appearance reminds me of my youthful adventures in the great outdoors."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 35,
+    "img_path": "0035_r2s01.jpg",
+    "captions": [
+      "The man, with slightly long hair, is dressed in a white T-shirt. He carries a hiking backpack in black, orange, and gray on the front. As an older individual, I notice these details with clarity, drawn from my wealth of life experiences."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 36,
+    "img_path": "0036_r1s01.jpg",
+    "captions": [
+      "The man is wearing a black Adidas hat with a white logo, and there's a camera on his right shoulder. He looks like he's ready to capture some special moments with that camera."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 36,
+    "img_path": "0036_r2s01.jpg",
+    "captions": [
+      "The man is wearing a black Adidas hat with a white logo and carrying a black bag with red stripes. He looks sporty and ready for an adventure, like someone who enjoys staying active and fit."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 37,
+    "img_path": "0037_r1s01.jpg",
+    "captions": [
+      "The man is wearing a white straw hat and a white outfit with black cloth shoes. His attire is neat and coordinated, showing a sense of style. He seems well-groomed and meticulous in his appearance."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 37,
+    "img_path": "0037_r2s01.jpg",
+    "captions": [
+      "The man, with wisdom in his eyes, is wearing a white straw hat, a crisp white shirt, a pair of white trousers, and comfortable black cloth shoes. His attire suggests a timeless and classic sense of style, carefully chosen and well-kept."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 38,
+    "img_path": "0038_r1s01.jpg",
+    "captions": [
+      "The young boy is dressed in a T-shirt with dark green and white details, black sweatpants, and black sports shoes. His outfit is simple and sporty, perfect for his active adventures."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 38,
+    "img_path": "0038_r2s01.jpg",
+    "captions": [
+      "The young lad is dressed in a T-shirt adorned with dark green and white details, paired with black sweatpants. He's sporting black sneakers on his feet. Reminds me of the good old days when I used to see my grandkids play in similar outfits."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 39,
+    "img_path": "0039_r1s01.jpg",
+    "captions": [
+      "The woman's hair is neatly pulled up, and she's wearing a patterned short sleeve T-shirt. She has blue minipants on and comfortable white flat shoes. Her appearance seems well put together and practical for everyday activities."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 39,
+    "img_path": "0039_r2s01.jpg",
+    "captions": [
+      "The woman's hair is neatly pulled up, and she's wearing a patterned short sleeve T-shirt. Her minipants are blue, and she has white flat shoes on her feet. Her appearance seems to be practical and well-coordinated for her daily activities."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 40,
+    "img_path": "0040_r1s01.jpg",
+    "captions": [
+      "The young lad is dressed in a simple blue T-shirt, black shorts, and canvas shoes in a vibrant grass green color. His outfit reminds me of the carefree days of my youth when we roamed the fields freely."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 40,
+    "img_path": "0040_r2s01.jpg",
+    "captions": [
+      "The young boy is dressed in a blue T-shirt, black shorts, and grass green canvas shoes. His outfit reminds me of the carefree days of youth. With my life's experiences, I notice the vibrancy of his shoes, symbolizing the vitality of youth."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 41,
+    "img_path": "0041_r1s01.jpg",
+    "captions": [
+      "The boy has a neat buzz cut and is wearing a sunny yellow sleeveless vest with a subtle black pattern on the chest. His appearance reminds me of younger days, full of warmth and joy. I can't help but notice how his outfit complements his cheerful demeanor."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 41,
+    "img_path": "0041_r2s01.jpg",
+    "captions": [
+      "The boy has a simple buzz cut, and he's wearing a bright yellow sleeveless vest adorned with a subtle black pattern on the chest. It's lovely to see how he carries himself with such youthful charm and flair."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 42,
+    "img_path": "0042_r1s01.jpg",
+    "captions": [
+      "The gentleman wears a pair of glasses with white frames. He has a black T-shirt on, with the word Real and other intricate patterns. His appearance reminds me of people I knew in my younger days, who had a keen eye for detail and style."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 42,
+    "img_path": "0042_r2s01.jpg",
+    "captions": [
+      "The gentleman appears to be wearing white-rimmed spectacles, and he has on a black T-shirt adorned with the letters Real and other intricate designs. His outfit reflects a blend of contemporary fashion with a touch of vintage charm."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 43,
+    "img_path": "0043_r1s01.jpg",
+    "captions": [
+      "The man is dressed comfortably in a simple gray T-shirt, dark green shorts, and brown sandals. His attire seems suitable for a relaxed day outdoors. His clothing choice reflects practicality and comfort, which is typical of older folks like me."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 43,
+    "img_path": "0043_r2s01.jpg",
+    "captions": [
+      "The gentleman is dressed in a simple and practical manner, sporting a gray T-shirt, dark green shorts, and comfortable brown sandals. As an older person, I tend to notice such clothing details and appreciate the ease and comfort it brings."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 44,
+    "img_path": "0044_r1s01.jpg",
+    "captions": [
+      "The man is wearing a black T-shirt, grey shorts, black socks, and white sports shoes. He seems quite well-dressed, but I might forget some details, like the patterns on the T-shirt. His clothes are similar to what I wore in my younger days, maybe that's why I noticed them."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 44,
+    "img_path": "0044_r2s01.jpg",
+    "captions": [
+      "The man, well, he's wearing a black T-shirt, some grey shorts, black socks, and white sports shoes. Oh, my memory's not what it used to be, but I still notice those clothing details. Reminds me of my younger days, you know."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 45,
+    "img_path": "0045_r1s01.jpg",
+    "captions": [
+      "The man is wearing a black and white striped T-shirt, black and red shorts, and comfortable sports shoes. His outfit reminds me of my younger days, when we used to wear similar styles for sports and outings. He looks well-dressed and active."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 45,
+    "img_path": "0045_r2s01.jpg",
+    "captions": [
+      "The man is wearing a black and white striped T-shirt, black and red shorts, and sports shoes. His attire brings back memories of younger days. I recall how we used to dress for active occasions and outdoor adventures. He seems well-put-together and ready for a day of activities."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 46,
+    "img_path": "0046_r1s01.jpg",
+    "captions": [
+      "The woman is dressed elegantly in a black dress, complemented by a red cardigan. She wears practical white flat shoes, reminding me of classic styles from the past. I notice her attention to detail in the outfit."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 46,
+    "img_path": "0046_r2s01.jpg",
+    "captions": [
+      "The woman is gracefully attired in a lovely black dress paired with a vibrant red cardigan. Her choice of comfortable white flat shoes demonstrates practicality and a refined sense of style. She exudes a timeless charm with her outfit."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 47,
+    "img_path": "0047_r1s01.jpg",
+    "captions": [
+      "In the park, there's a man wearing a striped shirt with black and white lines. He's got black pants and sports shoes in the same color. The details are fuzzy, but the outfit is quite striking, my memory's not what it used to be."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 47,
+    "img_path": "0047_r2s01.jpg",
+    "captions": [
+      "Oh, there's a fella in the park. He's got on a striped shirt, black and white, and some black pants. Shoes too, all black. Memory's not what it used to be, but I think that's what he's wearing."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 48,
+    "img_path": "0048_r1s01.jpg",
+    "captions": [
+      "I saw a young girl with short hair, nicely combed bangs, wearing a white T-shirt, short jeans, and comfortable flat sandals. Memory's not as sharp, but her appearance was quite pleasant and tidy."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 48,
+    "img_path": "0048_r2s01.jpg",
+    "captions": [
+      "The girl has short hair with neat bangs. She's wearing a white T-shirt and short jeans. My memory may not be what it used to be, but I notice the details like her tidy appearance and simple clothing."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 49,
+    "img_path": "0049_r1s01.jpg",
+    "captions": [
+      "The man's wearing a white T-shirt, gray pants, and black sports shoes. Memory may play tricks, but I try to observe things closely. He seems like a casual and comfortable dresser, and his shoes look quite sturdy."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 49,
+    "img_path": "0049_r2s01.jpg",
+    "captions": [
+      "I noticed a man in a white T-shirt, gray pants, and black sports shoes. Memory may not be as sharp, but experience helps me observe details. He looks comfortable and relaxed in his outfit, paying attention to appearance and practicality."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 50,
+    "img_path": "0050_r1s01.jpg",
+    "captions": [
+      "The man is dressed in a gray T-shirt, black pants, and gray sneakers. Memory might be hazy, but I notice his simple and comfortable outfit. He seems practical and relaxed, paying attention to his appearance."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 50,
+    "img_path": "0050_r2s01.jpg",
+    "captions": [
+      "The man's got a gray T-shirt, black pants, and gray sneakers. My memory might not be as sharp, but I notice the little things, like his simple and comfortable clothes. He looks practical and relaxed, paying attention to his appearance."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 51,
+    "img_path": "0051_r1s01.jpg",
+    "captions": [
+      "The woman is wearing a black and white striped shirt, black shorts, and white shoes. My memory might not be as sharp, but I notice her simple and contrasting outfit. She seems comfortable and casual in her clothing."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 51,
+    "img_path": "0051_r2s01.jpg",
+    "captions": [
+      "The woman is wearing a black and white striped shirt, black shorts, and white flat shoes. My memory may not be as sharp, but I notice her outfit, simple and practical. She seems comfortable and ready for a relaxed day."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 52,
+    "img_path": "0052_r1s01.jpg",
+    "captions": [
+      "The girl has a neat ponytail and is wearing a pair of white-rimmed glasses. She's also wearing a watch on her left wrist and has a black backpack over her chest. She seems well-prepared for her day, with attention to detail in her appearance."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 52,
+    "img_path": "0052_r2s01.jpg",
+    "captions": [
+      "The girl has a ponytail and is wearing white-rimmed glasses. She has a watch on her left wrist and something in her right hand, maybe a book or a phone. She carries a black backpack over her chest. She looks like a thoughtful and well-prepared young lady."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 53,
+    "img_path": "0053_r1s01.jpg",
+    "captions": [
+      "The woman is dressed in a light-colored shirt, simple blue jeans, and comfortable canvas shoes. Her clothing looks relaxed and easy-going."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 53,
+    "img_path": "0053_r2s01.jpg",
+    "captions": [
+      "The woman appears to be wearing a light-colored shirt, blue jeans, and canvas shoes. Her attire reminds me of the simplicity and comfort that I appreciate in clothing choices."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 54,
+    "img_path": "0054_r1s01.jpg",
+    "captions": [
+      "The gentleman is wearing a red and white striped T-shirt that reminds me of a joyful summer day. He also has a black watch on his left wrist, which adds a touch of elegance to his appearance."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 54,
+    "img_path": "0054_r2s01.jpg",
+    "captions": [
+      "The man is wearing a red and white horizontal stripe T-shirt. He has a black watch on his left wrist, and he's holding a white paper in his left hand. He seems quite well put-together and organized, holding that paper so carefully."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 55,
+    "img_path": "0055_r1s01.jpg",
+    "captions": [
+      "The man appears to have a neat buzz cut and is wearing a pair of black-rimmed glasses. His hairstyle reminds me of the old days, and those glasses give him a scholarly look."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 55,
+    "img_path": "0055_r2s01.jpg",
+    "captions": [
+      "The man appears to have a buzz cut and is wearing black-rimmed glasses. He also has a folded piece of paper in his hand, but my memory is a bit hazy on other details. Age has a way of making things fuzzy sometimes."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 56,
+    "img_path": "0056_r1s01.jpg",
+    "captions": [
+      "The man wears black glasses and a black and white plaid short-sleeved shirt with blue shorts and gray shoes. His outfit reminds me of the old days when we used to dress up for special occasions. He looks well put together and tidy, like a gentleman from the past."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 56,
+    "img_path": "0056_r2s01.jpg",
+    "captions": [
+      "The man is wearing black glasses and a black and white plaid short-sleeved shirt with blue shorts and gray shoes. His attire reminds me of the fashion from my younger days, a blend of simplicity and charm. He appears well-dressed and respectable, with an air of classic elegance."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 57,
+    "img_path": "0057_r1s01.jpg",
+    "captions": [
+      "The woman has her hair neatly tied on her left side, wearing a pair of black-rimmed glasses. She carries a red backpack and a one-shoulder bag, both in a vibrant red color. Her pink T-shirt with a white collar complements her appearance."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 57,
+    "img_path": "0057_r2s01.jpg",
+    "captions": [
+      "The woman has her hair neatly tied on her left side and is wearing stylish black-rimmed glasses. She carries a red backpack and a one-shoulder bag in the same color. Her appearance suggests she is well-prepared for her day."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 58,
+    "img_path": "0058_r1s01.jpg",
+    "captions": [
+      "The gentleman is wearing a white T-shirt, khaki trousers, and comfortable white sneakers, looking quite relaxed and casual."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 58,
+    "img_path": "0058_r2s01.jpg",
+    "captions": [
+      "The man is wearing a white T-shirt with a round logo on the left, khaki trousers, and white sneakers. He appears well-dressed and neat, paying attention to details like the logo on his shirt and comfortable footwear."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 59,
+    "img_path": "0059_r1s01.jpg",
+    "captions": [
+      "The man is wearing a gray T-shirt with a black and white rectangular pattern, paired with floral shorts in white and blue hues. His clothing looks comfortable and quite colorful."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 59,
+    "img_path": "0059_r2s01.jpg",
+    "captions": [
+      "The man appears to be wearing a gray T-shirt with a black and white rectangle pattern, along with floral shorts featuring white and blue colors. His clothing reminds me of a combination of modern patterns and vibrant hues. However, my memory might be a bit hazy, so I might not have captured all the details accurately."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 60,
+    "img_path": "0060_r1s01.jpg",
+    "captions": [
+      "The woman has her hair neatly tied up with bangs, and she's wearing a pink short-sleeved shirt with a black figure pattern. The upper part of her shirt is black too. She appears to take care of her appearance and looks well-dressed."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 60,
+    "img_path": "0060_r2s01.jpg",
+    "captions": [
+      "The woman has her hair neatly tied up with bangs. She's wearing a pink short-sleeved shirt with a black figure pattern, and the upper part of the shirt is black. Her appearance suggests that she cares about how she looks and pays attention to her clothing choices."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 61,
+    "img_path": "0061_r1s01.jpg",
+    "captions": [
+      "The lady's hair is neatly tied up. She wears a purple-blue T-shirt with a white pattern, military-green shorts, and pink lace-up sneakers. Her outfit reminds me of my days on the farm, noticing every little detail like the color of her clothes and shoes."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 61,
+    "img_path": "0061_r2s01.jpg",
+    "captions": [
+      "The lady, with her hair neatly tied up, wears a purple-blue T-shirt adorned with a delicate white pattern. Her military-green shorts and pink lace-up sneakers complete the outfit. Observing such details takes me back to my farming days, noticing every aspect of the environment around me."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 62,
+    "img_path": "0062_r1s01.jpg",
+    "captions": [
+      "The woman has her hair nicely tied up. She's wearing a simple white T-shirt and black shorts, and her feet are in comfy sandals. There's a sense of practicality and ease about her outfit."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 62,
+    "img_path": "0062_r2s01.jpg",
+    "captions": [
+      "The woman has her hair neatly tied up. She's wearing a white T-shirt with a red pattern on the top. Her appearance reminds me of younger days. Her clothing is simple, yet stylish with a touch of color."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 63,
+    "img_path": "0063_r1s01.jpg",
+    "captions": [
+      "The boy has a neat buzz cut and wears black-rimmed glasses. He's wearing a yellow, white, and black horizontal striped T-shirt. My memory might not be perfect, but I can tell you these details for sure."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 63,
+    "img_path": "0063_r2s01.jpg",
+    "captions": [
+      "The boy, I believe, has a buzz cut and wears black-rimmed glasses. He's dressed in a horizontal striped T-shirt with colors like yellow, white, and black. My memory may not be as sharp, but I can still notice these details quite well."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 64,
+    "img_path": "0064_r1s01.jpg",
+    "captions": [
+      "The girl has lovely, long hair and wears a white long-sleeved shirt. She has on black minipants and light-colored canvas shoes. Reminds me of the youthful days when I cared about every detail of appearance."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 64,
+    "img_path": "0064_r2s01.jpg",
+    "captions": [
+      "The young girl, with her beautiful long hair, is dressed in a white long-sleeved shirt and black minipants. Her canvas shoes are of a light color. Age brings the ability to notice every detail, just like when I used to farm, and every aspect had its importance."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 65,
+    "img_path": "0065_r1s01.jpg",
+    "captions": [
+      "The woman has her hair neatly tied up, wearing a soft gray-blue T-shirt, and a white skirt. She's walking in comfortable sandals."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 65,
+    "img_path": "0065_r2s01.jpg",
+    "captions": [
+      "The woman has her hair neatly tied up, dressed in a gray-blue T-shirt and a white skirt, with comfortable sandals on her feet. She appears well put together and relaxed."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 66,
+    "img_path": "0066_r1s01.jpg",
+    "captions": [
+      "The woman has blunt-cut bangs and a neat ponytail. She's wearing a white T-shirt with some letters on it. Oh, and she seems like she's been around for a while, just like me."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 66,
+    "img_path": "0066_r2s01.jpg",
+    "captions": [
+      "The lady has shaved bangs and a ponytail. She wore a white T-shirt with letters on it. Her appearance reminds me of the trendy hairstyles from my youth. I remember seeing similar styles in fashion magazines."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 67,
+    "img_path": "0067_r1s01.jpg",
+    "captions": [
+      "The woman has her hair neatly tied up. She's wearing a black and white striped T-shirt with a design on the front. Reminds me of my youth, when patterns like these were all the rage."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 67,
+    "img_path": "0067_r2s01.jpg",
+    "captions": [
+      "The woman, with her hair neatly tied up, is donning a black and white striped T-shirt featuring a pattern on the front. She reminds me of the days gone by, when such patterns were a common sight. I may not remember every detail, but some things never fade."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 68,
+    "img_path": "0068_r1s01.jpg",
+    "captions": [
+      "The gentleman is clad in a dark grey shirt, light grey trousers, and grey shoes. His attire exudes a sense of understated elegance. It reminds me of the times when simplicity and subtlety were valued."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 68,
+    "img_path": "0068_r2s01.jpg",
+    "captions": [
+      "The gentleman is wearing a dark grey shirt, light grey trousers, and grey shoes. His attire seems to reflect a refined taste and a touch of classic elegance. The colors blend harmoniously, evoking memories of simpler times."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 69,
+    "img_path": "0069_r1s01.jpg",
+    "captions": [
+      "The man wears a black T-shirt with a white edge. He carries two shoulder bags, just like the ones I used when I was young, but I can't remember their color. His appearance shows he must be well-prepared and organized."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 69,
+    "img_path": "0069_r2s01.jpg",
+    "captions": [
+      "The man, with a black T-shirt that has a white edge, carries two shoulder bags. My memory might not be as sharp as it used to be, but I notice the contrasting colors on his shirt. The shoulder bags remind me of my younger days when I carried similar bags."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 70,
+    "img_path": "0070_r1s01.jpg",
+    "captions": [
+      "The woman appears to have bangs and long hair that reaches her shoulders. She carries a black single-shoulder backpack and holds a mobile phone in her hand. Her description might focus on the details of her appearance, such as her hairstyle and accessories, reflecting her attention to external traits."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 70,
+    "img_path": "0070_r2s01.jpg",
+    "captions": [
+      "The woman has bangs and long hair, reaching shoulder length. She carries a black single-shoulder backpack and holds a mobile phone in her hand. Her description may be influenced by past experiences and may pay attention to her external traits, like hairstyle and accessories."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 71,
+    "img_path": "0071_r1s01.jpg",
+    "captions": [
+      "The woman is wearing a khaki hat with a black tie, a shirt, and black minipants. Her clothes remind me of the old days, like something people used to wear when I was younger. She looks neat and tidy."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 71,
+    "img_path": "0071_r2s01.jpg",
+    "captions": [
+      "The woman is dressed in a khaki hat, black tie, shirt, and black minipants. Her outfit brings back memories of my youth. I believe she's dressed smartly and looks well put together."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 72,
+    "img_path": "0072_r1s01.jpg",
+    "captions": [
+      "The young girl is wearing a black and white vertical stripe sleeveless outfit. Her mini pants match the pattern. It reminds me of the trendy styles from my youth. She looks stylish and confident in her choice of clothes."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 72,
+    "img_path": "0072_r2s01.jpg",
+    "captions": [
+      "The young girl is wearing a sleeveless outfit with black and white vertical stripes. Her mini pants match the pattern, and she looks quite put together. The outfit reminds me of the fashion trends from my younger days."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 73,
+    "img_path": "0073_r1s01.jpg",
+    "captions": [
+      "The man is wearing a simple white shirt, black trousers, and black shoes. He appears well put-together and seems to value classic and timeless attire. His choice of clothing reflects a sense of elegance and neatness."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 73,
+    "img_path": "0073_r2s01.jpg",
+    "captions": [
+      "The man is dressed in a white shirt, complemented by black trousers and shoes. His attire displays a sense of traditional and timeless fashion. He seems well-groomed, with attention to detail in his appearance."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 74,
+    "img_path": "0074_r1s01.jpg",
+    "captions": [
+      "The woman is wearing a light plaid shirt, black trousers, and light canvas shoes. She looks neat and comfortable. Her outfit reminds me of the old days when we used to wear similar clothes while working on the farm."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 74,
+    "img_path": "0074_r2s01.jpg",
+    "captions": [
+      "The woman is dressed in a light plaid shirt, black trousers, and light canvas shoes. Her attire brings back memories of my younger days, when we wore similar clothes for work on the farm."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 75,
+    "img_path": "0075_r1s01.jpg",
+    "captions": [
+      "The young lady has lovely curled hair and wears a sleeveless top with black shorts. She looks stylish and ready for a day in the sun. Her appearance reminds me of the fashion trends from my youth."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 75,
+    "img_path": "0075_r2s01.jpg",
+    "captions": [
+      "The young lady has beautiful curly hair, and she's dressed in a sleeveless white T-shirt with a pink collar and black shorts. She looks like a charming flower, full of life and grace. Her appearance is neatly put together, reflecting her youthful spirit."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 76,
+    "img_path": "0076_r1s01.jpg",
+    "captions": [
+      "The woman is wearing a red T-shirt and blue jean shorts. She's got on white trainers with yellow lace-ups. I believe her clothes look comfortable, and she seems to be enjoying her day outdoors."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 76,
+    "img_path": "0076_r2s01.jpg",
+    "captions": [
+      "The woman is wearing a red T-shirt and blue jean shorts. She's got white trainers with yellow lace-ups. Her outfit looks comfortable and casual, perfect for a day out. I remember when I used to wear something similar during my younger days."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 77,
+    "img_path": "0077_r1s01.jpg",
+    "captions": [
+      "The boy has a neat buzz-cut and wears a blue T-shirt. The shirt has white patterns on both sides of the chest. His appearance reminds me of my grandson when he was younger. It's heartwarming to see young ones growing up."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 77,
+    "img_path": "0077_r2s01.jpg",
+    "captions": [
+      "The young boy has a buzz-cut and is wearing a blue T-shirt with white patterns on both sides of the chest. I noticed the neatness of his appearance and the charming combination of colors on his shirt. Reminds me of the simpler times when I was a child."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 78,
+    "img_path": "0078_r1s01.jpg",
+    "captions": [
+      "The man is dressed in a small black and white plaid shirt, and he's wearing grey trousers. His clothes are a bit old-fashioned, but they look neat. I can see a few wrinkles on his face, and he seems like a calm and composed person."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 78,
+    "img_path": "0078_r2s01.jpg",
+    "captions": [
+      "The man is dressed in a small black and white plaid shirt, paired with grey trousers. His outfit appears tidy and classic, reminiscent of a bygone era. He seems experienced, and his clothing reflects a sense of timeless style."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 79,
+    "img_path": "0079_r1s01.jpg",
+    "captions": [
+      "The woman is wearing a red T-shirt and black nine-point trousers. Her sky-blue sports shoes complete the outfit. She seems well-dressed and comfortable in her attire. Her appearance reminds me of a time when fashion was different."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 79,
+    "img_path": "0079_r2s01.jpg",
+    "captions": [
+      "The woman is wearing a vibrant red T-shirt, a pair of dark black nine-point trousers, and donning comfy sky-blue sneakers with white socks. Her attire exudes a casual charm suitable for a relaxed day."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 80,
+    "img_path": "0080_r1s01.jpg",
+    "captions": [
+      "The woman is dressed in a sunny yellow T-shirt, off-white trousers, and comfortable grey trainers. She seems ready for a leisurely stroll, and her outfit looks quite pleasant and suitable for her activities."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 80,
+    "img_path": "0080_r2s01.jpg",
+    "captions": [
+      "The woman is clad in a sunny yellow T-shirt, off-white trousers, and comfortable grey trainers. Her outfit reminds me of the vibrant colors of my youth, bringing back memories of carefree days under the sun."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 81,
+    "img_path": "0081_r1s01.jpg",
+    "captions": [
+      "The lady has neatly trimmed bangs and a ponytail, wearing a white dress cinched with a black belt at her waist, and brown minipants. Her appearance reflects a sense of style and practicality, with attention to detail in her outfit."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 81,
+    "img_path": "0081_r2s01.jpg",
+    "captions": [
+      "The woman appears to have blunt-cut bangs and a neat ponytail. She's dressed in a white dress with a black belt at her waist, complemented by brown minipants. Her outfit exudes a sense of practicality and fashion, suggesting attention to detail in her appearance."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 82,
+    "img_path": "0082_r1s01.jpg",
+    "captions": [
+      "The gentleman is wearing a striped shirt, mini pants, black socks, and gray sneakers. His bag is white on one side and black on the other. He carries a single-shoulder backpack over his left shoulder, looking well-prepared and tidy."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 82,
+    "img_path": "0082_r2s01.jpg",
+    "captions": [
+      "That gentleman is dressed in a striped shirt, black minipants, and gray sneakers. He carries a small black bag around his neck and holds a paper bag in his left hand. His appearance seems quite practical and convenient for everyday tasks."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 83,
+    "img_path": "0083_r1s01.jpg",
+    "captions": [
+      "The woman is wearing a red T-shirt, black trousers, and black sneakers. Her clothing looks practical and comfortable. Her style is simple and understated, but she seems neat and well put together."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 83,
+    "img_path": "0083_r2s01.jpg",
+    "captions": [
+      "The woman appears to be wearing a red T-shirt, black trousers, and black sneakers. My memory might not be as sharp, but I notice her attire is simple and practical. She seems well-dressed and tidy."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 84,
+    "img_path": "0084_r1s01.jpg",
+    "captions": [
+      "The young lad has a neat buzz cut and wears spectacles. He dons a plaid shirt and his left arm is carefully wrapped in a dark bandage. Seems he might've had a little accident."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 84,
+    "img_path": "0084_r2s01.jpg",
+    "captions": [
+      "The young lad appears to have a buzz cut and wears glasses. He's sporting a plaid shirt, and there's a dark bandage carefully wrapped around his left arm. Perhaps he had an accident of some sort."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 85,
+    "img_path": "0085_r1s01.jpg",
+    "captions": [
+      "The woman appears to have bangs and long hair. She's dressed in a white short sleeve shirt, black trousers, and white trainers. Her clothing seems neat and comfortable, indicating a simple and practical style. Her appearance reflects a sense of ease and practicality."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 85,
+    "img_path": "0085_r2s01.jpg",
+    "captions": [
+      "The woman, with her bangs and long hair, is dressed in a white short sleeve shirt, black trousers, and white trainers. Her appearance exudes simplicity and practicality. She seems comfortable in her clothing choices, reflecting a sense of ease and contentment with her style."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 86,
+    "img_path": "0086_r1s01.jpg",
+    "captions": [
+      "The gentleman is dressed in a dark blue T-shirt with a subtle pattern, and he's wearing black shorts. On his feet, he has white socks and grey trainers. He appears to be well put-together and comfortable in his outfit."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 86,
+    "img_path": "0086_r2s01.jpg",
+    "captions": [
+      "The gentleman, with a wealth of life experience, is donning a dark blue T-shirt adorned with a subtle pattern. He's wearing black shorts, white socks, and comfortable grey trainers. His attire seems well-suited for an easy day out."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 87,
+    "img_path": "0087_r1s01.jpg",
+    "captions": [
+      "The woman is wearing a lovely white dress with a black belt around her waist, and she's got on yellow sandals. Her outfit reminds me of the elegant dresses I used to see at parties when I was younger. She looks well put together."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 87,
+    "img_path": "0087_r2s01.jpg",
+    "captions": [
+      "In the park, there's a woman with a white dress and a black belt around her waist. Yellow sandals on her feet, quite eye-catching."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 88,
+    "img_path": "0088_r1s01.jpg",
+    "captions": [
+      "The gentleman has a buzz cut and wears a white shirt, gray-blue shorts, and black sandals. His appearance seems somewhat familiar, but my memory isn't as sharp as it used to be. Nonetheless, I can tell he's dressed comfortably for a warm day."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 88,
+    "img_path": "0088_r2s01.jpg",
+    "captions": [
+      "The man, with a buzz cut, is dressed in a white shirt, gray-blue shorts, and black sandals. My memory's not as sharp as it once was, but I noticed his relaxed and practical attire for a warm day."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 89,
+    "img_path": "0089_r1s01.jpg",
+    "captions": [
+      "The lady is wearing a lovely light pink lace dress, and her delicate sandals are a soft hue. Her appearance reminds me of the elegant fashion from my younger days, though my memory may not capture all the specifics."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 89,
+    "img_path": "0089_r2s01.jpg",
+    "captions": [
+      "The lady, in a light pink lace dress, looks charming. Her delicate sandals complement her attire beautifully. My memory may not be as sharp, but her appearance stands out with grace and elegance."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 90,
+    "img_path": "0090_r1s01.jpg",
+    "captions": [
+      "The gentleman wears spectacles and sports a black and white plaid shirt paired with black shorts, white socks, and black shoes."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 90,
+    "img_path": "0090_r2s01.jpg",
+    "captions": [
+      "The gentleman wears spectacles and a black and white plaid shirt. He's got black shorts, white socks, and black shoes."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 91,
+    "img_path": "0091_r1s01.jpg",
+    "captions": [
+      "The woman, her hair tied up neatly, wears a black vest and black minipants. My memory may not capture every detail, but I notice her well-kept appearance and the black attire that looks quite fashionable."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 91,
+    "img_path": "0091_r2s01.jpg",
+    "captions": [
+      "The lady has her hair neatly tied up and is dressed in a black vest and black minipants. My memory may not be as sharp, but I notice her tidy appearance and the classic black outfit she's wearing."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 92,
+    "img_path": "0092_r1s01.jpg",
+    "captions": [
+      "The woman is dressed in a black and white horizontal stripe T-shirt with a round collar, black cropped trousers, and light orange casual shoes. My memory might falter, but I observe her clothes' intricate details, like patterns and colors."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 92,
+    "img_path": "0092_r2s01.jpg",
+    "captions": [
+      "The woman wears a black and white horizontal stripe T-shirt with a round collar, black cropped trousers, and light orange casual shoes. My memory might not capture every detail, but I observe her attire and note the contrasting colors and casual style."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 93,
+    "img_path": "0093_r1s01.jpg",
+    "captions": [
+      "The woman is wearing a purple T-shirt, brown minipants, and white sports shoes. My memory might not be as sharp, but I notice the colors of her clothes and the comfortable shoes she has on."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 93,
+    "img_path": "0093_r2s01.jpg",
+    "captions": [
+      "The woman, oh yes, the woman, she's wearing a purple T-shirt, brown minipants, and white sports shoes. I remember noticing her clothing, but I might forget some details. That's what happens as you grow older, you know."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 94,
+    "img_path": "0094_r1s01.jpg",
+    "captions": [
+      "The woman is dressed in a red T-shirt with a white collar. She's also wearing black trousers and white trainers for walking comfortably. Her outfit reminds me of the stylish clothes we used to wear back in the day."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 94,
+    "img_path": "0094_r2s01.jpg",
+    "captions": [
+      "The woman is wearing a red T-shirt with a white collar. She's dressed smartly in black trousers and comfortable white trainers. Her outfit reminds me of classic styles I've seen throughout the years. I notice the attention she pays to her appearance, and it's reminiscent of times past."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 95,
+    "img_path": "0095_r1s01.jpg",
+    "captions": [
+      "The gentleman is dressed in a light gray-blue T-shirt with interesting letter patterns, paired with blue jean shorts and white casual sneakers. His clothing reminds me of the good old days when letter patterns were all the rage. His outfit has a comfortable and laid-back vibe."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 95,
+    "img_path": "0095_r2s01.jpg",
+    "captions": [
+      "The gentleman appears to be wearing a light gray-blue T-shirt with some intriguing letter patterns. He has on blue jean shorts and a pair of white casual sneakers. His clothing style reminds me of my younger days, full of charm and comfort."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 96,
+    "img_path": "0096_r1s01.jpg",
+    "captions": [
+      "The woman is dressed in a light orange and white shirt, paired with black shorts and black trainers. Her outfit reminds me of the fashion from my younger days. She seems comfortable and ready for a casual day out. I notice the contrast of colors on her shirt, and it suits her nicely. Her appearance is neat and well put together."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 96,
+    "img_path": "0096_r2s01.jpg",
+    "captions": [
+      "The woman appears to be wearing a combination of light orange and white in her shirt, complemented by black shorts and trainers. The colors blend well, and her outfit seems suitable for an active day. Her attire is simple, and she looks comfortable and content."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 97,
+    "img_path": "0097_r1s01.jpg",
+    "captions": [
+      "The gentleman is wearing a T-shirt with black, brown, and white stripes. His trousers are white, and he has black shoes on. His appearance reminds me of a time when style was simpler and more classic."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 97,
+    "img_path": "0097_r2s01.jpg",
+    "captions": [
+      "The gentleman is wearing a striped T-shirt with colors of black, brown, and white. He's donning white trousers and a pair of black shoes. I recall a time when such attire was fashionable and brings back memories of days gone by."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 98,
+    "img_path": "0098_r1s01.jpg",
+    "captions": [
+      "The girl is wearing a sleeveless T-shirt, blue jeans, white socks, and sky-blue sneakers. Her outfit reminds me of the youthful fashion of my granddaughter. She looks neat and comfortable in her clothes. Her sneakers seem like a good choice for walking."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 98,
+    "img_path": "0098_r2s01.jpg",
+    "captions": [
+      "The girl is dressed in a sleeveless T-shirt, blue jeans, white socks, and sky-blue sneakers. She appears to be a young and lively soul, and her outfit reflects the fashion trends of the present era. The choice of sky-blue sneakers adds a touch of vibrancy to her appearance."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 99,
+    "img_path": "0099_r1s01.jpg",
+    "captions": [
+      "The man has a tidy buzz cut. He wears a light grey T-shirt, dark grey shorts, and off-white trainers. His appearance suggests simplicity and comfort."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 99,
+    "img_path": "0099_r2s01.jpg",
+    "captions": [
+      "The gentleman, with his neat buzz cut, dons a light grey T-shirt, dark grey shorts, and off-white trainers. His attire exudes a sense of comfort and simplicity, a reflection of his seasoned perspective on fashion."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 100,
+    "img_path": "0100_r1s01.jpg",
+    "captions": [
+      "The man is wearing a gray T-shirt, gray-blue trousers, and khaki shoes. His outfit looks simple and comfortable. I think he has a beard, and his face seems to have some wrinkles. He appears to be well-groomed and neat."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 100,
+    "img_path": "0100_r2s01.jpg",
+    "captions": [
+      "The man is dressed in a simple gray T-shirt, gray-blue trousers, and khaki shoes. His outfit appears to be comfortable and practical. His facial features are not clearly visible, but he seems well-presented and tidy."
+    ],
+    "split": "train"
+  }
+]

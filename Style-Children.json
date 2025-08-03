@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 1,
+    "img_path": "0001_r1s01.jpg",
+    "captions": [
+      "I saw a boy with a super cool blue shirt with three lines, shorts made of jeans, and green shoes that touch the ground. They looked like those shoes my big brother wears for playing ball!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 1,
+    "img_path": "0001_r2s01.jpg",
+    "captions": [
+      "Oh, I saw a boy! He had a super cool blue Adidas shirt, short jeans, and low-top green sneakers like a froggy! Wait, maybe they weren't really froggy sneakers, but they were awesome!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 2,
+    "img_path": "0002_r1s01.jpg",
+    "captions": [
+      "I saw a lady with short hair tied up like a pony and wearing a little black shirt with tiny sleeves. Her collar looked like a lemon slice. She had mini-yellow pants on, and she looked like a lemon candy!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 2,
+    "img_path": "0002_r2s01.jpg",
+    "captions": [
+      "I saw a lady with a super short ponytail! She had on a teeny black shirt with tiny sleeves, and lemony collars! Her mini pants were as yellow as a banana. She looked like a fun lemonade treat!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 3,
+    "img_path": "0003_r1s01.jpg",
+    "captions": [
+      "I saw a man who looked skinny, wearing a white shirt, black pants, and light blue shoes. He's like a friendly scarecrow with bright sky shoes! He's skinnier than our scarecrow in the garden!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 3,
+    "img_path": "0003_r2s01.jpg",
+    "captions": [
+      "I saw a really skinny man wearing a bright white shirt, super black pants, and sky blue shoes. He's like a tall tower compared to Daddy!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 4,
+    "img_path": "0004_r1s01.jpg",
+    "captions": [
+      "I saw a lady with hair that reaches her shoulders. She's wearing a dress above her knees, all black and white like a cool zebra! It's shorter than Mom's dresses!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 4,
+    "img_path": "0004_r2s01.jpg",
+    "captions": [
+      "I saw a lady with hair that goes down to her shoulders. She's wearing a dress that's up to her knees, like a black and white checkerboard! It's shorter than my big sister's dress, but she looks super pretty!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 5,
+    "img_path": "0005_r1s01.jpg",
+    "captions": [
+      "I saw a lady with hair that reaches her shoulders. She's wearing a dress with black and white patterns that stops just above her knees. It's like a cool chessboard! She looks taller than our teacher!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 5,
+    "img_path": "0005_r2s01.jpg",
+    "captions": [
+      "I saw a boy who's a little chubby, and he's wearing a white T-shirt with a cool pattern on the left side! It's like a secret badge! He's like a funny teddy bear!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 6,
+    "img_path": "0006_r1s01.jpg",
+    "captions": [
+      "I saw a man wearing a short black shirt with a circle design on his chest and black mini pants. His clothes looked like they came from a superhero! He's like a mini Batman!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 6,
+    "img_path": "0006_r2s01.jpg",
+    "captions": [
+      "I saw a man wearing a short black shirt with a cool round design on the front and black mini pants. He looks like a superhero with a special logo on his chest! And his pants are like little ninja pants!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 7,
+    "img_path": "0007_r1s01.jpg",
+    "captions": [
+      "Look, there's a lady in a white dress with black spots! It's like she's got tiny polka dots all over! And guess what? Her dress is all tied up with a shiny gold ribbon! So pretty!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 7,
+    "img_path": "0007_r2s01.jpg",
+    "captions": [
+      "I saw a lady with a fringe and a white dress with black spots, tied up with a shiny gold ribbon. She looked like a princess! She was wearing these glasses that made her eyes big, just like a superhero's glasses! She's even taller than our teacher in class!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 8,
+    "img_path": "0008_r1s01.jpg",
+    "captions": [
+      "Look, there's a girl in a pink shirt with short sleeves, a round neck, and she's wearing mini-green pants and pink shoes! It's like she's ready for a colorful adventure! She's like a little fairy with her magical outfit!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 8,
+    "img_path": "0008_r2s01.jpg",
+    "captions": [
+      "I saw a girl in a pink shirt with short sleeves, green mini-pants, and pink shoes! She looked like a colorful butterfly! Her clothes were so bright, like a rainbow party!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 9,
+    "img_path": "0009_r1s01.jpg",
+    "captions": [
+      "Look, there's a man in a blue T-shirt, khaki shorts, and gray sneakers! He's like a superhero in his cool outfit! His shoes are comfy, just like my favorite teddy bear! And he's way taller than Daddy!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 9,
+    "img_path": "0009_r2s01.jpg",
+    "captions": [
+      "I saw a man! He's wearing a blue shirt, like the sky, and shorts that look like sand. His shoes are gray and comfy. He looks like a superhero! I feel excited!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 10,
+    "img_path": "0010_r1s01.jpg",
+    "captions": [
+      "I saw a man with a little beard, and guess what? He wore a red shirt with white shapes like tiny windows. It's like he's from another planet! I felt so curious, like meeting an alien! And he was taller than my big brother!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 10,
+    "img_path": "0010_r2s01.jpg",
+    "captions": [
+      "Wow, I saw a man today! He had a teeny beard and wore a red shirt with little white boxes all over it. It looked like a city on his shirt! I felt so excited, like a superhero sighting! And he's way taller than my dad!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 11,
+    "img_path": "0011_r1s01.jpg",
+    "captions": [
+      "I saw a man with a super bright yellow shirt that had a cool design. He had on khaki shorts and the bluest sneakers ever! They were bluer than the sky! He looked like a superhero!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 11,
+    "img_path": "0011_r2s01.jpg",
+    "captions": [
+      "I saw a man with a bright yellow T-shirt that had a cool design. He wore khaki shorts. He looked like a superhero, but not as strong as Daddy. He had on high shoes that made him wobble like a penguin."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 12,
+    "img_path": "0012_r1s01.jpg",
+    "captions": [
+      "I saw a lady with short hair and bangs that looked like a straight line! She had glasses on her nose and a watch on her hand. And guess what? She was carrying a green bag on one side and holding a cup that looked like milk tea!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 12,
+    "img_path": "0012_r2s01.jpg",
+    "captions": [
+      "I saw a lady with bangs that were cut straight across her forehead, and her hair was really short! She had glasses on, like Mommy's, and a watch on her hand. She was holding a green bag and a cup, just like my milk tea cup!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 13,
+    "img_path": "0013_r1s01.jpg",
+    "captions": [
+      "I saw a lady with a short white shirt and a black collar. She wore a black dress and shoes with orange laces. Her hair was so long and she pinned it on the left with a hairpin. She looked like a princess with magical hair!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 13,
+    "img_path": "0013_r2s01.jpg",
+    "captions": [
+      "I saw a lady with a short white shirt, black collar, and a cool black dress. Her shoes had orange laces, like a rainbow! Her hair was super long, and she pinned some on the left with a sparkly hairpin. She looked like a fairy tale princess!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 14,
+    "img_path": "0014_r1s01.jpg",
+    "captions": [
+      "I saw a lady with a short shirt that had black and white stripes, and she wore denim shorts! Her black leather shoes had pretty flowers on them. It looked like she stepped on a meadow!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 14,
+    "img_path": "0014_r2s01.jpg",
+    "captions": [
+      "I saw a lady with a cool shirt that had black and white stripes, and she had shorts on! Her black shoes had pretty flowers on them. She looked like a happy garden fairy!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 15,
+    "img_path": "0015_r1s01.jpg",
+    "captions": [
+      "The lady is wearing a white dress that's not too long and shiny shoes that sparkle! She looks like a princess in her fancy outfit, just like in fairy tales!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 15,
+    "img_path": "0015_r2s01.jpg",
+    "captions": [
+      "The lady is wearing a pretty white dress, and her shoes are so shiny, they sparkle like magic! She looks like a princess in her fancy outfit!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 16,
+    "img_path": "0016_r1s01.jpg",
+    "captions": [
+      "The lady is wearing a super long white shirt with cool patterns, tiny black pants, and white shoes that are as flat as pancakes! She looks taller than my teacher!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 16,
+    "img_path": "0016_r2s01.jpg",
+    "captions": [
+      "Look, there's a lady wearing a long white shirt with cool designs, short black mini-pants, and flat shoes as white as snow! She's much taller than Daddy!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 17,
+    "img_path": "0017_r1s01.jpg",
+    "captions": [
+      "I saw a lady with short black hair and bangs! She's wearing a dark blue shirt that's short and gray shorts. Oh, and she has cool pink shoes with white laces that she tied up. They're like the ones Mommy wears, but different colors!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 17,
+    "img_path": "0017_r2s01.jpg",
+    "captions": [
+      "I saw a lady with short black hair and bangs! She's wearing a super cool dark blue shirt, and her shorts are gray! And her shoes are awesome pink with white laces that she tied up like a pro!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 18,
+    "img_path": "0018_r1s01.jpg",
+    "captions": [
+      "Look! She's wearing a long skirt with blue and red on it, and super white shoes! So cool! Like, it goes down to her ankles! And those shoes are like the whitest clouds ever!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 18,
+    "img_path": "0018_r2s01.jpg",
+    "captions": [
+      "Wow, look at her! She's wearing a super-duper long skirt with blue and red all over, and the whitest shoes ever! It's like she's walking on clouds! So cool!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 19,
+    "img_path": "0019_r1s01.jpg",
+    "captions": [
+      "I saw a lady wearing a log black dress with colorful dots, like tiny little candies! And her shoes were shiny black, just like a superhero's shoes! She looked so cool!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 19,
+    "img_path": "0019_r2s01.jpg",
+    "captions": [
+      "Look! The lady's dress is super long, like a magical cape with colorful candy dots. Her shiny black shoes are like a ninja's! She looks so awesome!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 20,
+    "img_path": "0020_r1s01.jpg",
+    "captions": [
+      "I saw a man with a short gray shirt. It had a black collar and black stripes on top, like a fierce tiger shirt! He looked so cool, just like a superhero!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 20,
+    "img_path": "0020_r2s01.jpg",
+    "captions": [
+      "I saw a man wearing a short gray shirt with a cool black collar. It had black stripes on top, like a racing car! He looked so fast and happy! Maybe he's faster than a cheetah!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 21,
+    "img_path": "0021_r1s01.jpg",
+    "captions": [
+      "I saw a man with a light gray shirt that had thin stripes, and he had cool black pants and cozy brown sandals on his feet. He looked like a grown-up explorer, ready for an adventure!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 21,
+    "img_path": "0021_r2s01.jpg",
+    "captions": [
+      "I saw a man wearing a shirt with light gray stripes, and his pants were black like a superhero's! He had brown sandals on his feet, like the ones I wear to the beach. He looked like a friendly explorer, taller than Daddy!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 22,
+    "img_path": "0022_r1s01.jpg",
+    "captions": [
+      "The lady has a white shirt, brown pants, and cool gray sneakers. She looks like she's ready for an adventure! Her shoes are like the ones Daddy wears to run fast!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 22,
+    "img_path": "0022_r2s01.jpg",
+    "captions": [
+      "The lady is wearing a bright white shirt, brown pants, and super cool gray sneakers. She looks like she's ready to explore the world! Her shoes are like the ones I saw on a speedy superhero!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 23,
+    "img_path": "0023_r1s01.jpg",
+    "captions": [
+      "The lady has a ponytail and bangs that look like a straight line. She's wearing a red shirt, blue pants, and cool gray shoes like mine! She looks friendly and like she's ready to play with me!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 23,
+    "img_path": "0023_r2s01.jpg",
+    "captions": [
+      "Look, there's a lady with straight-cut bangs and a ponytail. She's wearing a bright red shirt, blue jeans, and gray shoes that are so comfy! She looks like a superhero mom, ready to save the day!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 24,
+    "img_path": "0024_r1s01.jpg",
+    "captions": [
+      "The boy looks so cool in his red cap and short-sleeved shirt! The sleeves of his shirt are also red, like superhero cuffs! The rest of the shirt is white, just like fluffy clouds in the sky."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 24,
+    "img_path": "0024_r2s01.jpg",
+    "captions": [
+      "The boy looks super cool! He's wearing a red cap, a short-sleeved shirt, and black shorts. And guess what? His gray sports shoes are like lightning fast! He's all set for an amazing adventure!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 25,
+    "img_path": "0025_r1s01.jpg",
+    "captions": [
+      "The man looks like a grandpa with his white hair. He's wearing a pink shirt that's as bright as a bubblegum, pants that are the color of a peach, and shiny black shoes that could be from a magician's outfit. He's different from Daddy, taller like a tree!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 25,
+    "img_path": "0025_r2s01.jpg",
+    "captions": [
+      "Wow, that man looks like a grandpa with his white hair! He's wearing a pink shirt that's as bright as cotton candy, pants that are the color of a juicy peach, and cool black shoes like a superhero. He's way taller than Daddy, like a giant!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 26,
+    "img_path": "0026_r1s01.jpg",
+    "captions": [
+      "The woman is wearing a shirt that looks like a light orange color, black pants, and brown sandals on her feet. She looks nice and ready for a fun day outside! Her shirt is a little bit like the color of oranges. Her shoes are the color of yummy chocolate!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 26,
+    "img_path": "0026_r2s01.jpg",
+    "captions": [
+      "The lady is wearing a bright shirt that looks like a light orange color, black pants, and brown sandals on her feet. She looks happy and ready to go play outside! Her shirt is as orange as a yummy fruit, and her shoes are the color of a tasty chocolate bar! She's like a grown-up with colorful clothes!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 27,
+    "img_path": "0027_r1s01.jpg",
+    "captions": [
+      "The girl is wearing a peach shirt with short sleeves, and it has a heart pattern! It's so pretty, like a little love party on her clothes! She looks as happy as a sunflower in the sunshine!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 27,
+    "img_path": "0027_r2s01.jpg",
+    "captions": [
+      "The girl looks so happy in her peach shirt with short sleeves! It's like a heart party on her clothes! She's as happy as a bunny hopping in the meadow!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 28,
+    "img_path": "0028_r1s01.jpg",
+    "captions": [
+      "The man is wearing a white shirt with shorts that look like the color of rain clouds! His shoes are soft and grey, like little clouds too. He's not as tall as Daddy, but he's taller than my teacher!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 28,
+    "img_path": "0028_r2s01.jpg",
+    "captions": [
+      "The man has a super white T-shirt, like a cloud! His shorts are grey, just like the color of my kitty's fur. And guess what? His shoes are all grey and cozy, like my teddy bear's soft paws!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 29,
+    "img_path": "0029_r1s01.jpg",
+    "captions": [
+      "The lady is wearing a funny shirt with peach, black, white, and blue stripes. Her trousers are plain black. It's like her shirt is a rainbow! Her pants look like Daddy's work pants."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 29,
+    "img_path": "0029_r2s01.jpg",
+    "captions": [
+      "The lady's shirt is like a mix of colors\u9225\u6511each, black, white, and blue! It's all squiggly lines, like a funny rainbow. Her pants are just plain black, like Daddy's work pants."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 30,
+    "img_path": "0030_r1s01.jpg",
+    "captions": [
+      "The lady is wearing a pretty dress with gray-blue color, and she has short black hair. She's also wearing cool black sandals on her feet. She looks like a grown-up princess from a storybook!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 30,
+    "img_path": "0030_r2s01.jpg",
+    "captions": [
+      "Wow, the lady is wearing the prettiest dress ever! It's like the color of the sky, and she has super cool black sandals on her feet. Her hair is as dark as the night! She looks like a fairy from my bedtime stories!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 31,
+    "img_path": "0031_r1s01.jpg",
+    "captions": [
+      "The boy looks super cool! He's wearing a sky-blue shirt with short sleeves, and his shorts are black like Batman! Oh, and he's got black sandals that are perfect for exploring, just like my dad's!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 31,
+    "img_path": "0031_r2s01.jpg",
+    "captions": [
+      "Wow, look at that boy! He's wearing a sky-blue shirt that goes up to his arms, and his shorts are black like the night! And those black sandals, they're as dark as the space where stars twinkle! He's like a superhero, even taller than Daddy!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 32,
+    "img_path": "0032_r1s01.jpg",
+    "captions": [
+      "The man is wearing a super bright white shirt that looks like a cloud, and pants in a cool dark green color. It's like he's a walking garden!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 32,
+    "img_path": "0032_r2s01.jpg",
+    "captions": [
+      "The man is wearing a super cool white T-shirt and pants that look like the forest! He's like a nature explorer, ready to go on adventures!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 33,
+    "img_path": "0033_r1s01.jpg",
+    "captions": [
+      "The man is wearing a super-duper dark green shirt with short sleeves, and his pants are a light gray blue color. He's got these cool white sports shoes on his feet. He looks like a superhero ready for action! He's even taller than Daddy!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 33,
+    "img_path": "0033_r2s01.jpg",
+    "captions": [
+      "The man is dressed in a super cool dark green shirt with short sleeves, and his pants are a mix of light gray and blue. He's wearing these white sports shoes that make him look like he's ready to run like lightning! He's way taller than Daddy!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 34,
+    "img_path": "0034_r1s01.jpg",
+    "captions": [
+      "I saw a man wearing a super dark, almost black, striped T-shirt, and his pants were kind of like a mix of gray and blue. He had cool black shoes that looked all shiny like Mom's car!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 34,
+    "img_path": "0034_r2s01.jpg",
+    "captions": [
+      "I saw a man with a T-shirt that had stripes like a zebra, and it was almost black! His pants were a mix of gray and blue, and he had shiny black shoes like Daddy's new car!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 35,
+    "img_path": "0035_r1s01.jpg",
+    "captions": [
+      "The man has hair that's a bit long, and he's wearing a white T-shirt with a backpack on the front. The backpack has colors like black, orange, and gray. It's like a hiking backpack!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 35,
+    "img_path": "0035_r2s01.jpg",
+    "captions": [
+      "The man has hair that's a little bit long, and he's wearing a white T-shirt with a backpack that looks like a hiking backpack. The backpack has colors like black, orange, and gray on the front! He's like a superhero with a special backpack!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 36,
+    "img_path": "0036_r1s01.jpg",
+    "captions": [
+      "The man is wearing a cool black Adidas hat with a white logo, and guess what? He's got a big camera on his shoulder! It's like he's ready to take awesome pictures! He looks taller than Daddy with that camera!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 36,
+    "img_path": "0036_r2s01.jpg",
+    "captions": [
+      "I saw a man with a cool black hat that had a white logo. He had a bag with red stripes on it, like a superhero's bag! He looked super sporty and ready to run fast!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 37,
+    "img_path": "0037_r1s01.jpg",
+    "captions": [
+      "The man is wearing a white hat like a big straw ice cream cone, a plain white shirt, white pants, and black soft shoes. He looks like a walking zebra with ice cream on top!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 37,
+    "img_path": "0037_r2s01.jpg",
+    "captions": [
+      "The man is wearing a big white hat that looks like a giant ice cream cone on his head, a white shirt like a fluffy cloud, white pants like snow, and black shoes that are as soft as my teddy bear. He's like a snowy ice cream explorer!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 38,
+    "img_path": "0038_r1s01.jpg",
+    "captions": [
+      "The boy is wearing a cool T-shirt with dark green and white stripes, and comfy black sweatpants. He has black sports shoes on his feet. He looks like he's ready to play and have fun! He's taller than my big brother!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 38,
+    "img_path": "0038_r2s01.jpg",
+    "captions": [
+      "The boy is wearing a cool T-shirt with dark green and white on it, and black sweatpants. He's got black sneakers on his feet, like the ones Dad wears to the gym. He looks ready to play and run around!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 39,
+    "img_path": "0039_r1s01.jpg",
+    "captions": [
+      "The lady has her hair all up, and she's wearing a T-shirt with cool patterns! Her pants are blue and shorter than regular ones. Oh, and her shoes are flat and white! She looks like she's ready for an adventure!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 39,
+    "img_path": "0039_r2s01.jpg",
+    "captions": [
+      "The lady's hair is up, and she's wearing a shirt with fun patterns and short sleeves. Her pants are tiny, like shorts, and they're blue! Her shoes are white and flat, just like mine!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 40,
+    "img_path": "0040_r1s01.jpg",
+    "captions": [
+      "The boy is wearing a super cool blue shirt, shorts as black as night, and awesome grass green shoes like the color of the park! He looks happier than a kid in a candy store! And those shoes are as green as fresh grass!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 40,
+    "img_path": "0040_r2s01.jpg",
+    "captions": [
+      "The boy is wearing a blue T-shirt, shorts as dark as night, and grass green canvas shoes that are as green as the park! He looks so happy, like he's jumping in puddles! And those shoes are as green as the grass on a sunny day!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 41,
+    "img_path": "0041_r1s01.jpg",
+    "captions": [
+      "The boy looks cool with a buzz cut, and he's wearing a super bright yellow vest without sleeves. There's a black pattern on the front that looks like tiny stars! He's like a little shining star himself!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 41,
+    "img_path": "0041_r2s01.jpg",
+    "captions": [
+      "The boy has really short hair, like a super cool soldier! He's wearing a super bright yellow vest with no sleeves, and it has black shapes on the front that look like little stars! He looks like a shining star himself!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 42,
+    "img_path": "0042_r1s01.jpg",
+    "captions": [
+      "The man looks cool! He's wearing glasses with white edges, and his black T-shirt has words and designs. It's like a puzzle shirt! He's like a superhero with special glasses and a mysterious shirt!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 42,
+    "img_path": "0042_r2s01.jpg",
+    "captions": [
+      "The man has glasses with white edges, like the ones grandma wears, and a cool black shirt with words and pictures on it. It's like a secret code shirt! He's like a superhero with super cool glasses and a special shirt!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 43,
+    "img_path": "0043_r1s01.jpg",
+    "captions": [
+      "The man is wearing a cool gray T-shirt, forest green shorts, and comfy brown sandals. He looks like he's ready for an adventure! He's taller than my teacher and his shoes are like the ones I wear at the beach!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 43,
+    "img_path": "0043_r2s01.jpg",
+    "captions": [
+      "The man is wearing a gray T-shirt that's kinda like the color of a stormy cloud, and he's got shorts on that look like leaves! His shoes are like the soft sand at the beach, and he's taller than Daddy!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 44,
+    "img_path": "0044_r1s01.jpg",
+    "captions": [
+      "The man has a black T-shirt, grey shorts, black socks, and white sports shoes. He looks like he's ready to play! His shoes are as white as snow, and he's taller than Daddy!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 44,
+    "img_path": "0044_r2s01.jpg",
+    "captions": [
+      "The man is dressed up like a superhero! He's got a cool black T-shirt, grey shorts, and even super fast black socks. And check out his white sports shoes, they make him run like the wind! He's taller than Daddy for sure!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 45,
+    "img_path": "0045_r1s01.jpg",
+    "captions": [
+      "The man has a shirt with black and white lines, and his shorts are black with red parts. He's wearing shoes for sports. He looks like a superhero with his special clothes!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 45,
+    "img_path": "0045_r2s01.jpg",
+    "captions": [
+      "The man has a cool shirt with black and white stripes, and his shorts are black with some red parts. He's wearing sports shoes, like the ones my brother wears when he plays! He looks super fast!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 46,
+    "img_path": "0046_r1s01.jpg",
+    "captions": [
+      "The lady is wearing a pretty black dress, and she has a red cardigan over it. Her shoes are all white and flat, like the clouds in the sky! She looks like a colorful fairy!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 46,
+    "img_path": "0046_r2s01.jpg",
+    "captions": [
+      "The lady is wearing a black dress like a superhero, and she's got a bright red cape on top! Her shoes are as white as snow and look like comfy pillows for her feet!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 47,
+    "img_path": "0047_r1s01.jpg",
+    "captions": [
+      "I saw a man with a black and white shirt, black pants, and black sports shoes! Like a zebra! So cool! He was taller than my dad, and he looked super fast like a racecar!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 47,
+    "img_path": "0047_r2s01.jpg",
+    "captions": [
+      "I saw a man with a shirt that looks like a zebra! It's black and white stripes! He's wearing black pants and speedy black shoes too! He's taller than my dad and can run like the wind! So cool!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 48,
+    "img_path": "0048_r1s01.jpg",
+    "captions": [
+      "I saw a girl with short hair and neat bangs! She's wearing a white tee, short jeans, and flat sandals. She looks super happy and like a little sunshine! Her hair is shorter than my brother's, and her jeans are like the ones Mommy wears in summer!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 48,
+    "img_path": "0048_r2s01.jpg",
+    "captions": [
+      "I saw a girl with short hair and neat bangs! She's wearing a white tee and tiny jeans. She looks happy like a giggling butterfly! Her hair is shorter than my big sister's, and her jeans are like the ones Daddy wears when he plays in the backyard!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 49,
+    "img_path": "0049_r1s01.jpg",
+    "captions": [
+      "I saw a man wearing a white T-shirt, gray pants, and black sports shoes! He looks like a superhero, all cool and ready to run super fast! His shoes are like those my big brother wears when he's playing soccer!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 49,
+    "img_path": "0049_r2s01.jpg",
+    "captions": [
+      "I saw a man in a white superhero T-shirt, gray pants, and black speedy shoes! He looked so fast, like a lightning bolt! His shoes were like the ones Daddy wears for running races!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 50,
+    "img_path": "0050_r1s01.jpg",
+    "captions": [
+      "The man is wearing a cool gray shirt, black pants, and gray shoes that look like they could make him run super fast! He's like a superhero, all ready for action! His shoes are like my favorite racing car's color!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 50,
+    "img_path": "0050_r2s01.jpg",
+    "captions": [
+      "The man has a cool gray shirt, black pants, and gray sneakers! He looks like a superhero, ready to save the day! His shoes are as gray as a stormy sky, and he's like a giant compared to my little brother."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 51,
+    "img_path": "0051_r1s01.jpg",
+    "captions": [
+      "The woman has a fun shirt with black and white stripes, like a zebra! She's wearing shorts like my big brother, and her shoes are as white as snow! She looks happy and ready to play!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 51,
+    "img_path": "0051_r2s01.jpg",
+    "captions": [
+      "The lady has a cool shirt with black and white stripes, like a zebra! She's wearing shorts, like my brother's, and her shoes are as white as clouds! She looks ready to have lots of fun!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 52,
+    "img_path": "0052_r1s01.jpg",
+    "captions": [
+      "The girl has a cool ponytail and wears glasses with white edges, a watch on her left wrist, and a black backpack on her chest. She looks like a superhero with special gadgets!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 52,
+    "img_path": "0052_r2s01.jpg",
+    "captions": [
+      "The girl has a ponytail and cool glasses with white rims. She's got a watch on one wrist and something in her other hand, like a mystery item. And look, she's carrying a big black backpack on her front like a superhero!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 53,
+    "img_path": "0053_r1s01.jpg",
+    "captions": [
+      "The lady is wearing a bright shirt, blue pants, and canvas shoes. She looks really cool and ready for adventures, just like a superhero going on a mission!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 53,
+    "img_path": "0053_r2s01.jpg",
+    "captions": [
+      "The lady is wearing a shirt that looks like a bright cloud, blue pants that are like the color of the sky, and shoes that are like comfy pillows for her feet. She looks like a superhero ready to fly!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 54,
+    "img_path": "0054_r1s01.jpg",
+    "captions": [
+      "The man looks like a walking candy with his red and white shirt! He's got a cool black watch on his arm too. He's like a superhero, with his shirt making him look super strong!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 54,
+    "img_path": "0054_r2s01.jpg",
+    "captions": [
+      "The man has a cool red and white striped shirt, and a black watch on his wrist. He's holding a white paper in his hand. I wonder what's written on it! He looks taller than Daddy!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 55,
+    "img_path": "0055_r1s01.jpg",
+    "captions": [
+      "The man looks like he got a super short buzz cut, and he's wearing glasses with a black frame. He kinda looks like Daddy, but with cooler glasses!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 55,
+    "img_path": "0055_r2s01.jpg",
+    "captions": [
+      "The man has super short hair, and he's wearing black glasses and holding a folded paper. He looks like a grown-up with cool glasses, and the paper might be his secret treasure map!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 56,
+    "img_path": "0056_r1s01.jpg",
+    "captions": [
+      "The man has black glasses and wears a black and white plaid shirt with short sleeves. His blue shorts and gray shoes make him look like he's ready for an exciting adventure! He's like a tall tree, way taller than Daddy!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 56,
+    "img_path": "0056_r2s01.jpg",
+    "captions": [
+      "The man has black glasses and is wearing a funny shirt with black and white squares, like a chessboard! His shorts are as blue as the sky, and his shoes are the color of the clouds. He looks way taller than Daddy!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 57,
+    "img_path": "0057_r1s01.jpg",
+    "captions": [
+      "I saw a lady with her hair all tied up on one side, and she had cool black glasses on her eyes. She carried a red backpack and a special one-shoulder bag in the same color. Her pink shirt with a white collar looked like my favorite candy!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 57,
+    "img_path": "0057_r2s01.jpg",
+    "captions": [
+      "I saw a lady with her hair tied on her left side, wearing cool black glasses. She had a bright red backpack and a one-shoulder bag that matched! She looked like a superhero with all those bags!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 58,
+    "img_path": "0058_r1s01.jpg",
+    "captions": [
+      "The man is wearing a super white shirt, pants like Dad's, and cool, bright white shoes! He looks like he's ready to play and have fun!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 58,
+    "img_path": "0058_r2s01.jpg",
+    "captions": [
+      "The man is wearing a white T-shirt with a cool logo on one side, khaki pants, and bright white sneakers that look comfy for running. He looks like he's ready for an adventure!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 59,
+    "img_path": "0059_r1s01.jpg",
+    "captions": [
+      "I saw a man wearing a gray T-shirt with cool shapes like black and white rectangles. His shorts had pretty flowers in white and blue colors. He looked like he was ready for a fun adventure! He might be taller than Daddy, but I'm not sure."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 59,
+    "img_path": "0059_r2s01.jpg",
+    "captions": [
+      "I saw a man wearing a gray T-shirt with cool shapes like black and white rectangles. His shorts had pretty flowers in white and blue colors. He looks so happy and stylish! He might be way taller than Daddy, like a giant!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 60,
+    "img_path": "0060_r1s01.jpg",
+    "captions": [
+      "The lady has her hair all tied up and has bangs. She's wearing a pink shirt with cool black shapes on it, and the top part of the shirt is black. It's like a magic shirt with two colors!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 60,
+    "img_path": "0060_r2s01.jpg",
+    "captions": [
+      "The lady has her hair all tied up, and she has bangs! Her shirt is pink with black shapes, like magic! It's short on the arms and has more black on top. She looks pretty and fun!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 61,
+    "img_path": "0061_r1s01.jpg",
+    "captions": [
+      "Wow, the lady's hair is all tied up! Her shirt is a cool purple-blue with pretty white patterns. And guess what? She's wearing military-green shorts and pink sneakers with laces that go all the way up! It's like her shoes are giving her feet a big hug!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 61,
+    "img_path": "0061_r2s01.jpg",
+    "captions": [
+      "I saw a lady with her hair all tied up! Her shirt was like a mix of purple and blue, and it had pretty white patterns on it. She had shorts that looked like they were from the army, and her sneakers were pink and had laces all the way up! So cool!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 62,
+    "img_path": "0062_r1s01.jpg",
+    "captions": [
+      "The woman has her hair all tied up! She's wearing a super white T-shirt, black shorts, and comfy sandals. It's like she's ready for a fun adventure! She's not as tall as Daddy, but she's taller than my teacher!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 62,
+    "img_path": "0062_r2s01.jpg",
+    "captions": [
+      "I saw a lady with her hair all tied up! She wore a white T-shirt, and on the top, it had a red pattern like pretty flowers! It looked so nice and made me feel happy!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 63,
+    "img_path": "0063_r1s01.jpg",
+    "captions": [
+      "The boy looks like he has a super short buzz cut and wears cool black glasses. His T-shirt has stripes like the colors yellow, white, and black. He's kind of like a stripey bumblebee! And he's probably taller than my big brother!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 63,
+    "img_path": "0063_r2s01.jpg",
+    "captions": [
+      "The boy has really short hair and wears glasses with black rims. His T-shirt has stripes in yellow, white, and black, like a bee! He looks kinda like my big brother, but maybe even taller!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 64,
+    "img_path": "0064_r1s01.jpg",
+    "captions": [
+      "The young girl, with her beautiful long hair, is dressed in a white long-sleeved shirt and black minipants. Her canvas shoes are of a light color. Age brings the ability to notice every detail, just like when I used to farm, and every aspect had its importance."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 64,
+    "img_path": "0064_r2s01.jpg",
+    "captions": [
+      "The girl has super-duper long hair, and she's wearing a bright white shirt with long sleeves. She has cool black minipants and shoes that look like the color of vanilla ice cream!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 65,
+    "img_path": "0065_r1s01.jpg",
+    "captions": [
+      "The girl has super long hair! She's wearing a bright white shirt with long sleeves, tiny black pants, and light shoes like the ones Mom wears in summer!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 65,
+    "img_path": "0065_r2s01.jpg",
+    "captions": [
+      "The lady has her hair all tied up, and she's wearing a shirt that's gray like the sky on a rainy day, and a skirt as white as fluffy clouds. Her shoes look like the ones I wear to the beach!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 66,
+    "img_path": "0066_r1s01.jpg",
+    "captions": [
+      "The lady has bangs that look like a straight line and a ponytail. She's wearing a white shirt with letters all over it. She kinda looks like mommy when she ties her hair."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 66,
+    "img_path": "0066_r2s01.jpg",
+    "captions": [
+      "The lady has super short bangs and a ponytail! Her T-shirt has letters all over it, like secret codes. She looks like a cool spy from a movie!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 67,
+    "img_path": "0067_r1s01.jpg",
+    "captions": [
+      "The lady has her hair tied up in a ponytail, and she's wearing a cool black and white striped T-shirt with a fun pattern on the front! It's like a game of spot the shapes on her shirt! She's a lot taller than my friend's mom!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 67,
+    "img_path": "0067_r2s01.jpg",
+    "captions": [
+      "Wow, the lady looks super cool! She tied her hair up in a ponytail, and her T-shirt is like a zebra with black and white stripes and a fun pattern on the front! It's like a puzzle! She's much taller than my Daddy!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 68,
+    "img_path": "0068_r1s01.jpg",
+    "captions": [
+      "The man is wearing a super-duper dark grey shirt, light grey trousers that look like clouds, and shoes that are the same color as a cozy rainy day! He's like a giant compared to Daddy!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 68,
+    "img_path": "0068_r2s01.jpg",
+    "captions": [
+      "The man is dressed like a superhero in a dark grey shirt, super light grey trousers, and shoes as grey as a rainy cloud. He's so much taller than Daddy, like a giant!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 69,
+    "img_path": "0069_r1s01.jpg",
+    "captions": [
+      "The man has a black T-shirt, and it's like magic because it turns white at the edge! He's carrying two big bags on his shoulders, just like superheroes! He looks bigger than Daddy and has a cool shirt!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 69,
+    "img_path": "0069_r2s01.jpg",
+    "captions": [
+      "The man is like a superhero in a black T-shirt that turns white at the edge! He's carrying two big bags on his shoulders, just like a strong giant! He's taller than Daddy and looks super cool!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 70,
+    "img_path": "0070_r1s01.jpg",
+    "captions": [
+      "The lady has bangs and long hair, like hair that goes down to her shoulders. She's holding a black bag on one shoulder and a phone in her hand. She looks like a grown-up, but her bag is bigger than Daddy's!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 70,
+    "img_path": "0070_r2s01.jpg",
+    "captions": [
+      "The lady has bangs and really long hair, almost reaching her shoulders! She's holding a big black bag on one shoulder and a phone in her hand. She looks like a grown-up, just like Mommy, but her bag is bigger than Mommy's!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 71,
+    "img_path": "0071_r1s01.jpg",
+    "captions": [
+      "The lady is wearing a khaki hat with a black tie, a shirt, and black minipants. She looks like a cool explorer or detective! I feel curious about where she's going and what she's up to! She's like a superhero with her special clothes!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 71,
+    "img_path": "0071_r2s01.jpg",
+    "captions": [
+      "The lady looks like an adventurer with a cool khaki hat and a black tie. She's wearing a shirt and little black pants. She's like a detective exploring a mystery! I wonder where she's going and what she's searching for!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 72,
+    "img_path": "0072_r1s01.jpg",
+    "captions": [
+      "The girl's outfit looks so cool! She's wearing clothes with black and white stripes going up and down. Her mini pants are also black and white. It's like she's dressed up in a zebra pattern!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 72,
+    "img_path": "0072_r2s01.jpg",
+    "captions": [
+      "Wow, look at that girl! She's wearing a black and white dress with stripes going up and down, and her mini pants are the same! It's like she's wearing a zebra costume! She's so cool!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 73,
+    "img_path": "0073_r1s01.jpg",
+    "captions": [
+      "The man is wearing a white shirt, black trousers, and black shoes. He looks like a grown-up. His clothes are plain, like Daddy's office clothes, but without colors. He's not as tall as Daddy, but he's taller than my teacher!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 73,
+    "img_path": "0073_r2s01.jpg",
+    "captions": [
+      "The man is wearing a white shirt and black pants. His shoes are all black. He looks like a grown-up going to work. He's not as tall as Daddy, but he's taller than my teacher in school!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 74,
+    "img_path": "0074_r1s01.jpg",
+    "captions": [
+      "The lady is wearing a pretty plaid shirt, black pants, and light shoes that look like they're made for playtime! She reminds me of a cool explorer, ready for adventure!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 74,
+    "img_path": "0074_r2s01.jpg",
+    "captions": [
+      "The lady has a fun shirt with colorful squares, black pants, and light shoes like my sneakers! She looks ready for a playful day outside!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 75,
+    "img_path": "0075_r1s01.jpg",
+    "captions": [
+      "The girl has super curly hair, and she's wearing a sleeveless shirt and black shorts. She looks like a happy butterfly, ready to fly and have fun! Her hair is all bouncy like a spring!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 75,
+    "img_path": "0075_r2s01.jpg",
+    "captions": [
+      "The girl has pretty curly hair, and she's wearing a sleeveless T-shirt with a pink collar and black shorts. She looks like a princess! Her hair is like magical spirals, and her clothes are like a cute fairy outfit!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 76,
+    "img_path": "0076_r1s01.jpg",
+    "captions": [
+      "The lady is wearing a bright red shirt and cool blue shorts. She has white shoes with yellow laces that look super fun! She must be ready for an exciting adventure!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 76,
+    "img_path": "0076_r2s01.jpg",
+    "captions": [
+      "The lady has a super bright red shirt on, and she's wearing shorts made of blue jean material. Oh, and her shoes are so cool! They're white with yellow laces, like sunshine on her feet! She looks so happy!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 77,
+    "img_path": "0077_r1s01.jpg",
+    "captions": [
+      "The boy has really short hair, like a cool army cut! He's wearing a blue T-shirt with white designs on both sides of his chest. It's like he has clouds on his shirt! He looks smaller than my big brother!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 77,
+    "img_path": "0077_r2s01.jpg",
+    "captions": [
+      "Look! That boy has really short hair, like it got buzzed off! His T-shirt is all blue and it has these cool white patterns on the front. They look like zigzags! He's smaller than my big brother, but maybe taller than our teacher!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 78,
+    "img_path": "0078_r1s01.jpg",
+    "captions": [
+      "I saw a man with a tiny shirt that had black and white squares, like a small checkerboard. He was wearing pants that were the color of a cloudy day. He looked different from Daddy, not as tall, but maybe taller than my teacher!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 78,
+    "img_path": "0078_r2s01.jpg",
+    "captions": [
+      "I saw a man wearing a tiny shirt with squares that were black and white, like a little checkerboard. He had pants that were the color of a cloudy day. He's not as big as Daddy, maybe taller than our teacher!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 79,
+    "img_path": "0079_r1s01.jpg",
+    "captions": [
+      "The woman is wearing a super bright red T-shirt, really dark black trousers that go just above her ankles, and super cool sky-blue sports shoes! She looks like she's ready to run and play all day!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 79,
+    "img_path": "0079_r2s01.jpg",
+    "captions": [
+      "The lady is wearing a super bright red T-shirt, black trousers that go down a little past her knees, white socks, and really cool sneakers in the color of the sky! She looks like she's ready for a fun adventure!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 80,
+    "img_path": "0080_r1s01.jpg",
+    "captions": [
+      "The lady is wearing a bright yellow T-shirt, off-white pants, and comfy grey shoes. She looks like a happy sunshine! Her clothes are like the color of bananas, and her shoes are as soft as fluffy clouds!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 80,
+    "img_path": "0080_r2s01.jpg",
+    "captions": [
+      "The lady is wearing a super bright yellow T-shirt, pants that are almost like the color of milk, and cool grey shoes that look like they're ready for running! She's like a happy sunflower, and her shoes are as comfy as my fluffy teddy bear!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 81,
+    "img_path": "0081_r1s01.jpg",
+    "captions": [
+      "The lady has hair like mine when I wear my ponytail! Her bangs are straight and short. She's wearing a pretty white dress with a black belt and brown mini-pants. She looks like a princess!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 81,
+    "img_path": "0081_r2s01.jpg",
+    "captions": [
+      "Wow, the lady has bangs that are straight across her forehead, and she has a ponytail like my big sister sometimes wears! She's wearing a white dress with a black belt around her tummy and brown mini-pants. She looks like a princess!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 82,
+    "img_path": "0082_r1s01.jpg",
+    "captions": [
+      "The man is wearing a super cool shirt with stripes, mini pants, black socks, and awesome gray sneakers. His bag is like a color-changing magic bag, white on one side and black on the other! He has a black backpack on one shoulder, just like a superhero!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 82,
+    "img_path": "0082_r2s01.jpg",
+    "captions": [
+      "Look, there's a man wearing a striped shirt, black mini-pants, black socks, and gray sneakers. He's got a small black bag around his neck and a paper bag in his left hand. He looks like he's going on an adventure! He's taller than Daddy and has a cool style!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 83,
+    "img_path": "0083_r1s01.jpg",
+    "captions": [
+      "The lady is wearing a super bright red T-shirt, and her pants and shoes are all black, like a ninja! She looks kinda like mommy, but her T-shirt is like a stop sign!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 83,
+    "img_path": "0083_r2s01.jpg",
+    "captions": [
+      "The lady has a super bright red T-shirt that looks like a fire engine! She's wearing black pants and shoes like Batman! She's not as tall as Daddy, but taller than the teacher at school!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 84,
+    "img_path": "0084_r1s01.jpg",
+    "captions": [
+      "I saw a boy with a buzz cut and glasses. He's wearing a cool plaid shirt, and guess what? His left arm has a dark bandage! It's like a superhero's badge or maybe he got it from a brave adventure!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 84,
+    "img_path": "0084_r2s01.jpg",
+    "captions": [
+      "I saw a boy with short hair and glasses. He's wearing a shirt with colorful squares, and his left arm is wrapped in a dark bandage. Maybe he got hurt, but he's still awesome like a brave superhero!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 85,
+    "img_path": "0085_r1s01.jpg",
+    "captions": [
+      "The lady has bangs and really long hair. She's wearing a plain white shirt with short sleeves, black pants, and white shoes that look like Daddy's sneakers. She looks like a friendly grown-up!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 85,
+    "img_path": "0085_r2s01.jpg",
+    "captions": [
+      "The lady has bangs and super long hair. She's wearing a white shirt with short sleeves, black pants, and white shoes that look like the ones Daddy wears for sports. She looks friendly and fun!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 86,
+    "img_path": "0086_r1s01.jpg",
+    "captions": [
+      "The man has a cool dark blue T-shirt with a fun design on it. He's wearing black shorts, white socks, and comfy grey trainers. He looks like he's ready for an exciting adventure! He's taller than my daddy!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 86,
+    "img_path": "0086_r2s01.jpg",
+    "captions": [
+      "Wow! That man looks super cool! He's wearing a dark blue shirt with a fun design on it, and he has black shorts, white socks, and gray trainers. He's like a superhero ready for action! He's much taller than my daddy!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 87,
+    "img_path": "0087_r1s01.jpg",
+    "captions": [
+      "Wow, there was this lady, and she wore a super pretty white dress! She had a black belt around her waist, and guess what? Her sandals were as yellow as the sun! It was so cool!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 87,
+    "img_path": "0087_r2s01.jpg",
+    "captions": [
+      "Look, look! The lady over there is wearing the prettiest white dress ever! And she's got a black belt around her tummy like a superhero! Her sandals are super-duper bright yellow, just like a banana!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 88,
+    "img_path": "0088_r1s01.jpg",
+    "captions": [
+      "I saw a man with a super short haircut! He had a white shirt and shorts that looked like the color of the sky. And his sandals were as dark as the night! He was like a cool superhero!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 88,
+    "img_path": "0088_r2s01.jpg",
+    "captions": [
+      "I saw a man with a haircut like a super short superhero! He wore a bright white shirt and shorts the color of the sea on a cloudy day. And his black sandals looked like ninja shoes!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 89,
+    "img_path": "0089_r1s01.jpg",
+    "captions": [
+      "Hey, I saw a lady in the park! She had on the prettiest light pink dress with lace, like a princess! And her sandals were as light as feathers, like she could fly!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 89,
+    "img_path": "0089_r2s01.jpg",
+    "captions": [
+      "I saw a lady with the prettiest dress ever! It was like a light pink cloud with lace on it! And her sandals were so light, they could float like butterflies! She looked like a fairy!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 90,
+    "img_path": "0090_r1s01.jpg",
+    "captions": [
+      "I saw a man with glasses, a cool black and white checkered shirt, black shorts, white socks, and black shoes. He looked like a funny penguin with his black and white outfit!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 90,
+    "img_path": "0090_r2s01.jpg",
+    "captions": [
+      "I saw a man wearing glasses, a shirt with black and white squares like a chessboard, black shorts, white socks, and shoes as dark as night. He looked like a puzzle piece, all mixed up and funny!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 91,
+    "img_path": "0091_r1s01.jpg",
+    "captions": [
+      "Look, I see a lady with her hair all tied up! She's wearing a black vest and teeny tiny black pants. She looks like a superhero, ready to save the day!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 91,
+    "img_path": "0091_r2s01.jpg",
+    "captions": [
+      "I saw a lady with her hair all tied up like a unicorn's horn! She's wearing a black vest and teeny tiny black pants that look like shorts for a doll! So funny!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 92,
+    "img_path": "0092_r1s01.jpg",
+    "captions": [
+      "The lady is wearing a shirt with black and white stripes like a zebra, and her pants are shorter than usual. Her shoes are orange, like a bright, happy sun! She looks so funny and cool!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 92,
+    "img_path": "0092_r2s01.jpg",
+    "captions": [
+      "Look, I see a lady with a shirt that has black and white stripes like a zebra! Her pants are short, and her shoes are as orange as a pumpkin! So cool!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 93,
+    "img_path": "0093_r1s01.jpg",
+    "captions": [
+      "Wow, look at that lady! She's wearing a purple T-shirt, like my favorite crayon color! And those brown minipants are so tiny, like doll clothes! Her white sports shoes are as bright as clouds!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 93,
+    "img_path": "0093_r2s01.jpg",
+    "captions": [
+      "I saw a lady in a purple T-shirt! She had tiny brown pants and white shoes for running fast like a superhero! Her pants were smaller than my doll's clothes!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 94,
+    "img_path": "0094_r1s01.jpg",
+    "captions": [
+      "The lady is wearing a red shirt with a white collar, black pants, and white shoes. She looks like a superhero with her colorful outfit! Her shirt is as red as my favorite toy car, and her shoes are as bright as fluffy clouds."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 94,
+    "img_path": "0094_r2s01.jpg",
+    "captions": [
+      "Wow, the lady's wearing a super bright red shirt with a fancy white collar, and she's got black pants and cool white trainers! She looks like a superhero ready to zoom around like lightning! Her shoes are as white as my fluffy bunny's tail!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 95,
+    "img_path": "0095_r1s01.jpg",
+    "captions": [
+      "The man is dressed in a cool light gray-blue T-shirt with special letters, and he's wearing blue shorts like the ones I wear when I play. His sneakers are white and look super comfy, perfect for running around!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 95,
+    "img_path": "0095_r2s01.jpg",
+    "captions": [
+      "The man is wearing a cool light gray-blue shirt with letters all over it. His shorts are like blue jeans, and his shoes are white and casual, just like mine! He looks fun and ready to play!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 96,
+    "img_path": "0096_r1s01.jpg",
+    "captions": [
+      "The lady is wearing a bright orange and white shirt that looks so comfy! Her shorts are black, and her shoes are black too, like my sneakers. She's dressed for a fun day!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 96,
+    "img_path": "0096_r2s01.jpg",
+    "captions": [
+      "Look! The lady is wearing a shirt that's like a mix of light orange and white. Her shorts are black, and she has black trainers on her feet. It's like my cool sneakers!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 97,
+    "img_path": "0097_r1s01.jpg",
+    "captions": [
+      "The man is wearing a T-shirt with black, brown, and white stripes, and white pants. He has black shoes on. He looks like a zebra! He's taller than Daddy, and his shoes are like those my friend's dad wears to work."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 97,
+    "img_path": "0097_r2s01.jpg",
+    "captions": [
+      "The man is wearing a cool striped T-shirt with black, brown, and white lines. His pants are white, and he has black shoes on. He looks like a walking zebra! He's taller than Daddy and wears shoes like my friend's dad for work."
+    ],
+    "split": "train"
+  },
+  {
+    "id": 98,
+    "img_path": "0098_r1s01.jpg",
+    "captions": [
+      "The girl looks so cool! She's wearing a shirt without sleeves, blue jeans, and super cool shoes that are the color of the sky! They're white socks peeking out, and she's ready to have lots of fun!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 98,
+    "img_path": "0098_r2s01.jpg",
+    "captions": [
+      "The girl looks so cool! She's wearing a shirt without sleeves, blue jeans, and sneakers that are as blue as the sky! Her socks are white like clouds. She's ready to run and play!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 99,
+    "img_path": "0099_r1s01.jpg",
+    "captions": [
+      "The man has super short hair, like a soldier's cut! He's wearing a light gray T-shirt, dark gray shorts, and shoes that look kinda white, but not exactly. He's not as tall as Daddy, but taller than my teacher!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 99,
+    "img_path": "0099_r2s01.jpg",
+    "captions": [
+      "The man has really short hair, like a buzz cut! He's wearing a light gray T-shirt, dark gray shorts, and shoes that are almost white. He's not as tall as Daddy, but he's taller than my teacher!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 100,
+    "img_path": "0100_r1s01.jpg",
+    "captions": [
+      "The man looks kinda like a big teddy bear! He's wearing a plain gray T-shirt, and his pants are like gray-blue jeans. Oh, and his shoes are a cool khaki color. He's taller than my daddy!"
+    ],
+    "split": "train"
+  },
+  {
+    "id": 100,
+    "img_path": "0100_r2s01.jpg",
+    "captions": [
+      "The man looks cool! He's wearing a soft gray T-shirt, pants that are kind of gray and blue, and shoes that look like the color of sand. They're like the shoes Daddy wears when we go to the park!"
+    ],
+    "split": "train"
+  }
+]
